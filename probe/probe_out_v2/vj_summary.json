@@ -1,0 +1,83 @@
+{
+ "leaderboard_user": {
+  "url": "https://data-api.polymarket.com/v2/leaderboard?user=0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+  "http": 200,
+  "body": {
+   "data": null
+  }
+ },
+ "user_stats": {
+  "url": "https://data-api.polymarket.com/v2/user-stats?user=0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+  "http": 200,
+  "data": {
+   "proxy_wallet": "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+   "trades": 23,
+   "biggest_win": 1586082.96,
+   "views": 33704,
+   "join_date": 1791224554,
+   "all_time_pnl": {
+    "timestamp": 1793606146,
+    "source_block": 96600460,
+    "realized_market_pnl": 5325561.673346,
+    "realized_lp_pnl": 0.0,
+    "realized_combo_pnl": 0.0,
+    "unrealized_pnl": 3e-06,
+    "fees_refunded": 0.0,
+    "maker_rebate": 553.7601,
+    "taker_rebate": 93545.0827,
+    "reward_income": 0.0,
+    "yield_income": 0.0,
+    "referral_income": 0.0,
+    "deposits": null,
+    "withdrawals": null,
+    "realized_pnl": 5325561.673346,
+    "wallet_income": 94098.8428,
+    "position_pnl": 5325561.673349,
+    "settled_pnl": 5419660.516146,
+    "economic_pnl": 5419660.516149,
+    "trade_pnl": 5615144.014409,
+    "sponsored_income": 0.0,
+    "fees": -289582.34106,
+    "fees_paid": -289582.34106,
+    "cashflow_net": null,
+    "volume": 47146017.140157,
+    "volume_usdc": 36659498.0777,
+    "trade_count": 725
+   }
+  }
+ },
+ "trades_true_7d": {
+  "url": "https://data-api.polymarket.com/v2/trades?user=0xcdcccd0f2d86e450d973da415ad2430e5cc7935a&taker_only=true&start=1793013231&end=1793618031&limit=100",
+  "http": 200,
+  "rows": 0
+ },
+ "trades_30d": {
+  "url": "https://data-api.polymarket.com/v2/trades?user=0xcdcccd0f2d86e450d973da415ad2430e5cc7935a&taker_only=false&start=1791026031&end=1793618031&limit=100",
+  "http": 200,
+  "rows": 100,
+  "ts_min_max": [
+   1792182977,
+   1792857432
+  ]
+ },
+ "positions_all": {
+  "url": "https://data-api.polymarket.com/v2/positions?user=0xcdcccd0f2d86e450d973da415ad2430e5cc7935a&limit=20&sort_direction=DESC",
+  "http": 200,
+  "rows": 4,
+  "titles": [
+   "Counter-Strike: fnatic vs Liquid (BO3) - 1win Private Club #2 Playoffs",
+   "Games Total: O/U 2.5",
+   "Will Chelsea FC win on 2026-10-24?",
+   "Counter-Strike: fnatic vs Liquid - Map 1 Winner"
+  ],
+  "statuses": [
+   "REDEEMABLE"
+  ],
+  "event_slugs": [
+   "cs2-fnc-tl1-2026-10-19",
+   "cs2-fnc-tl1-2026-10-19",
+   "epl-che-tot-2026-10-24",
+   "cs2-fnc-tl1-2026-10-19"
+  ]
+ }
+}

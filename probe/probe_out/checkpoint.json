@@ -1,0 +1,42 @@
+{
+ "ABORTED": {
+  "status": "lỗi mạng: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)'))",
+  "ts": "2026-11-02T11:13:17Z",
+  "summary": "lỗi mạng: URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1032)'))"
+ },
+ "end": {
+  "status": "DONE",
+  "ts": "2026-11-02T11:14:34Z",
+  "summary": null
+ },
+ "b": {
+  "status": "OK",
+  "ts": "2026-11-02T11:13:51Z",
+  "summary": "wallet=0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+ },
+ "c": {
+  "status": "OK",
+  "ts": "2026-11-02T11:14:03Z",
+  "summary": "trades true/false + activity"
+ },
+ "d": {
+  "status": "OK",
+  "ts": "2026-11-02T11:14:04Z",
+  "summary": "gamma 0 markets"
+ },
+ "e": {
+  "status": "OK",
+  "ts": "2026-11-02T11:14:04Z",
+  "summary": "resolutions 1 rows"
+ },
+ "f": {
+  "status": "OK",
+  "ts": "2026-11-02T11:14:17Z",
+  "summary": "prices-history 7d+90d"
+ },
+ "g": {
+  "status": "OK",
+  "ts": "2026-11-02T11:14:34Z",
+  "summary": "k2=0 k3=0"
+ }
+}

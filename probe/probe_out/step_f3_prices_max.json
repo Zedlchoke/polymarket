@@ -1,0 +1,75 @@
+{
+ "data": [
+  {
+   "timestamp": 1793016000,
+   "price": 0.505,
+   "resolution_seconds": 43200
+  },
+  {
+   "timestamp": 1793059200,
+   "price": 0.635,
+   "resolution_seconds": 43200
+  },
+  {
+   "timestamp": 1793102400,
+   "price": 0.8,
+   "resolution_seconds": 43200
+  },
+  {
+   "timestamp": 1793145600,
+   "price": 0.745,
+   "resolution_seconds": 43200
+  },
+  {
+   "timestamp": 1793188800,
+   "price": 0.765,
+   "resolution_seconds": 43200
+  },
+  {
+   "timestamp": 1793232000,
+   "price": 0.82,
+   "resolution_seconds": 43200
+  },
+  {
+   "timestamp": 1793275200,
+   "price": 0.815,
+   "resolution_seconds": 43200
+  },
+  {
+   "timestamp": 1793318400,
+   "price": 0.735,
+   "resolution_seconds": 43200
+  },
+  {
+   "timestamp": 1793361600,
+   "price": 0.755,
+   "resolution_seconds": 43200
+  },
+  {
+   "timestamp": 1793404800,
+   "price": 0.755,
+   "resolution_seconds": 43200
+  },
+  {
+   "timestamp": 1793448000,
+   "price": 0.775,
+   "resolution_seconds": 43200
+  },
+  {
+   "timestamp": 1793491200,
+   "price": 0.775,
+   "resolution_seconds": 43200
+  },
+  {
+   "timestamp": 1793618161,
+   "price": 0.685,
+   "resolution_seconds": 0
+  }
+ ],
+ "pagination": {
+  "limit": 10000,
+  "offset": 0,
+  "has_more": false,
+  "next_cursor": null
+ }
+}

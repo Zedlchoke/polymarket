@@ -1,0 +1,54 @@
+[
+ {
+  "label": "spain",
+  "condition": "0x51166276fa646ca50165f7d030c297138ed1d62dc41f6ffde21e962c44182074",
+  "url": "https://data-api.polymarket.com/v2/resolutions?condition=0x51166276fa646ca50165f7d030c297138ed1d62dc41f6ffde21e962c44182074",
+  "http": 200,
+  "resolutions_rows": [
+   {
+    "status": "resolved",
+    "payouts": [
+     1000000,
+     0
+    ],
+    "resolved_at": "2026-07-19T22:53:46Z",
+    "resolution_source": "reported",
+    "reporter": null,
+    "was_disputed": false
+   }
+  ]
+ },
+ {
+  "label": "ghana",
+  "condition": "0x0256ef63427ed0d9eefa1422eee948165a2a215b0741a339025fb08b2cf6e15d",
+  "url": "https://data-api.polymarket.com/v2/resolutions?condition=0x0256ef63427ed0d9eefa1422eee948165a2a215b0741a339025fb08b2cf6e15d",
+  "http": 200,
+  "resolutions_rows": [
+   {
+    "status": "resolved",
+    "payouts": [
+     1000000,
+     0
+    ],
+    "resolved_at": "2026-06-18T01:35:55Z",
+    "resolution_source": "reported",
+    "reporter": null,
+    "was_disputed": false
+   }
+  ]
+ },
+ {
+  "label": "pos_spain",
+  "condition": "0x51166276fa646ca50165f7d030c297138ed1d62dc41f6ffde21e962c44182074",
+  "url": "https://data-api.polymarket.com/v2/positions?user=0xf0318c32136c2db7fec88b84869aee6a1106c80c&condition=0x51166276fa646ca50165f7d030c297138ed1d62dc41f6ffde21e962c44182074&limit=10",
+  "http": 200,
+  "position_rows": []
+ },
+ {
+  "label": "pos_ghana",
+  "condition": "0x0256ef63427ed0d9eefa1422eee948165a2a215b0741a339025fb08b2cf6e15d",
+  "url": "https://data-api.polymarket.com/v2/positions?user=0xf0318c32136c2db7fec88b84869aee6a1106c80c&condition=0x0256ef63427ed0d9eefa1422eee948165a2a215b0741a339025fb08b2cf6e15d&limit=10",
+  "http": 200,
+  "position_rows": []
+ }
+]

@@ -1,0 +1,296 @@
+{
+ "b": {
+  "url_leaderboard": "https://data-api.polymarket.com/v2/leaderboard?time_period=month&category=sports&sort_by=PNL&limit=5",
+  "status": 200,
+  "rows": 5,
+  "next_cursor": "eyJkYXRhIjp7InR5cGUiOiJsZWFkZXJib2FyZCIsInBhcmFtcyI6eyJsIjo1LCJvIjo1LCJzIjoiUE5MIiwidCI6Im1vbnRoIiwiYyI6InNwb3J0cyJ9fSwic2lnIjoiYzY1NGMxOWM1YTc0MmYzMGY1YWMxYmFmNjkxNDE3OGUifQ",
+  "has_more": true,
+  "top_wallets": [
+   "0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+   "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a",
+   "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7",
+   "0xe9b710551dd82a44e79203c2394a2b10163ace7b",
+   "0x5268527977f700f9bf9b6d5cd843859e4e70135d"
+  ],
+  "row_keys": [
+   "pnl",
+   "profile_image",
+   "rank",
+   "user_id",
+   "user_name",
+   "verified",
+   "volume",
+   "x_username"
+  ],
+  "url_positions": "https://data-api.polymarket.com/v2/positions?user=0xf0318c32136c2db7fec88b84869aee6a1106c80c&status=CLOSED&limit=10&sort_direction=DESC",
+  "status_positions": 200,
+  "positions_rows": 10,
+  "positions_next_cursor": "eyJkYXRhIjp7InR5cGUiOiJwb3NpdGlvbnMiLCJwYXJhbXMiOnsibCI6MTAsImQiOjEwLCJrIjoiOTM5NDM3LjQxNzM4OTAwMDAwMCIsInQiOiI4MTU0OTI5MzUyMjkyNjgzNDIxNzE5NjgxMzQ0OTAyMDE0ODUzOTI0MTUxMzc1MTQ4NDIyMzI1OTE1OTExNDQ2OTcxMTkxMTgyNDMxNiIsImEiOiJ1IiwiYXYiOiIweGYwMzE4YzMyMTM2YzJkYjdmZWM4OGI4NDg2OWFlZTZhMTEwNmM4MGMiLCJzdCI6IkNMT1NFRCIsInMiOiJSRUFMSVpFRF9QTkwiLCJkaXIiOiJERVNDIn19LCJzaWciOiJmMGU2OGNjZmQxNjgzZGQ0YzI4M2M3YWIzMWFiMzY0MyJ9",
+  "positions_has_more": true,
+  "positions_last_event_at_min_max": [
+   1781574822,
+   1793072937
+  ],
+  "position_row_keys": [
+   "archived",
+   "avg_price",
+   "condition_id",
+   "current_price",
+   "current_size",
+   "current_value",
+   "end_date",
+   "entry_cost_usdc",
+   "entry_fees_usdc",
+   "event_id",
+   "event_slug",
+   "first_entry_at",
+   "icon",
+   "last_event_at",
+   "mergeable",
+   "name",
+   "negative_risk",
+   "opposite_outcome",
+   "opposite_token_id",
+   "outcome",
+   "outcome_index",
+   "percent_pnl",
+   "percent_realized_pnl",
+   "profile_image",
+   "proxy_wallet",
+   "realized_pnl",
+   "redeemable",
+   "slug",
+   "status",
+   "title",
+   "token_id",
+   "total_cost_usdc",
+   "total_pnl",
+   "total_size",
+   "unrealized_pnl",
+   "verified"
+  ],
+  "url_user_stats": "https://data-api.polymarket.com/v2/user-stats?user=0xf0318c32136c2db7fec88b84869aee6a1106c80c",
+  "status_user_stats": 200,
+  "user_stats_keys": [
+   "data"
+  ],
+  "wallet": "0xf0318c32136c2db7fec88b84869aee6a1106c80c"
+ },
+ "c": {
+  "window_start": 1793013231,
+  "window_end": 1793618031,
+  "taker_only=true": {
+   "url": "https://data-api.polymarket.com/v2/trades?user=0xf0318c32136c2db7fec88b84869aee6a1106c80c&taker_only=true&start=1793013231&end=1793618031&limit=100",
+   "status": 200,
+   "rows": 77,
+   "next_cursor": null,
+   "has_more": false,
+   "ts_min_max_count": [
+    1793054282,
+    1793582404,
+    77
+   ],
+   "n_buy": 72,
+   "row_keys": [
+    "bio",
+    "condition_id",
+    "event_slug",
+    "icon",
+    "name",
+    "outcome",
+    "outcome_index",
+    "price",
+    "profile_image",
+    "profile_image_optimized",
+    "proxy_wallet",
+    "pseudonym",
+    "side",
+    "size",
+    "slug",
+    "timestamp",
+    "title",
+    "token_id",
+    "transaction_hash"
+   ],
+   "has_usdc_size_field": false
+  },
+  "taker_only=false": {
+   "url": "https://data-api.polymarket.com/v2/trades?user=0xf0318c32136c2db7fec88b84869aee6a1106c80c&taker_only=false&start=1793013231&end=1793618031&limit=100",
+   "status": 200,
+   "rows": 100,
+   "next_cursor": "eyJkYXRhIjp7InR5cGUiOiJ0cmFkZXMiLCJwYXJhbXMiOnsibCI6MTAwLCJ0cyI6MTc5MzYxNTAzNSwic3EiOiI5NjYwNjM4NjAwMDE4MDIzNzAiLCJkIjoxMDB9fSwic2lnIjoiYmEwZGE3ZWZlMmUwN2RiNTI3OWNlNzFhMGM4YjQxYzAifQ",
+   "has_more": true,
+   "ts_min_max_count": [
+    1793615035,
+    1793617954,
+    100
+   ],
+   "n_buy": 72,
+   "row_keys": [
+    "bio",
+    "condition_id",
+    "event_slug",
+    "icon",
+    "name",
+    "outcome",
+    "outcome_index",
+    "price",
+    "profile_image",
+    "profile_image_optimized",
+    "proxy_wallet",
+    "pseudonym",
+    "side",
+    "size",
+    "slug",
+    "timestamp",
+    "title",
+    "token_id",
+    "transaction_hash"
+   ],
+   "has_usdc_size_field": false
+  },
+  "activity_TRADE": {
+   "url": "https://data-api.polymarket.com/v2/activity?user=0xf0318c32136c2db7fec88b84869aee6a1106c80c&type=TRADE&start=1793013231&end=1793618031&limit=100",
+   "status": 200,
+   "rows": 100,
+   "next_cursor": "eyJkYXRhIjp7InR5cGUiOiJhY3Rpdml0eSIsInBhcmFtcyI6eyJsIjoxMDAsInRzIjoxNzkzNjE1MDM1LCJzcSI6Ijk2NjA2Mzg2MDAwMTgwMjM3MCIsImQiOjEwMH19LCJzaWciOiJmMzZmMmIyMWQxZjNkYjdmMjliOGI4NGViMjAxZGY4MiJ9",
+   "ts_min_max_count": [
+    1793615035,
+    1793617954,
+    100
+   ],
+   "row_keys": [
+    "bio",
+    "condition_id",
+    "event_slug",
+    "icon",
+    "name",
+    "outcome",
+    "outcome_index",
+    "price",
+    "profile_image",
+    "profile_image_optimized",
+    "proxy_wallet",
+    "pseudonym",
+    "side",
+    "size",
+    "slug",
+    "timestamp",
+    "title",
+    "token_id",
+    "transaction_hash",
+    "type",
+    "usdc_size"
+   ],
+   "has_usdc_size_field": true
+  }
+ },
+ "d": {
+  "url": "https://gamma-api.polymarket.com/markets?condition_ids=0x51166276fa646ca50165f7d030c297138ed1d62dc41f6ffde21e962c44182074%2C0x0256ef63427ed0d9eefa1422eee948165a2a215b0741a339025fb08b2cf6e15d%2C0x51166276fa646ca50165f7d030c297138ed1d62dc41f6ffde21e962c44182074&limit=10",
+  "status": 200,
+  "rows": 0,
+  "picks": {
+   "neg_risk": "0x51166276fa646ca50165f7d030c297138ed1d62dc41f6ffde21e962c44182074",
+   "moneyline_2": "0x0256ef63427ed0d9eefa1422eee948165a2a215b0741a339025fb08b2cf6e15d",
+   "resolved": "0x51166276fa646ca50165f7d030c297138ed1d62dc41f6ffde21e962c44182074"
+  },
+  "markets": [],
+  "all_row_keys": []
+ },
+ "e": {
+  "url": "https://data-api.polymarket.com/v2/resolutions?condition=0x51166276fa646ca50165f7d030c297138ed1d62dc41f6ffde21e962c44182074",
+  "status": 200,
+  "condition": "0x51166276fa646ca50165f7d030c297138ed1d62dc41f6ffde21e962c44182074",
+  "rows": 1,
+  "payouts_micro_usdc": [
+   [
+    1000000,
+    0
+   ]
+  ],
+  "co_hoa_0_5": false,
+  "gamma_doi_chieu": null,
+  "resolution_row_keys": [
+   "condition_id",
+   "extended_review",
+   "last_update_timestamp",
+   "log_index",
+   "new_version_q",
+   "payouts",
+   "resolution_source",
+   "resolved_at",
+   "resolved_block",
+   "status",
+   "transaction_hash",
+   "was_arbitrated",
+   "was_disputed"
+  ]
+ },
+ "f": {
+  "token_id": "103502227257868648930155562667494664756217753218326084089472320347435597174870",
+  "7d": {
+   "url": "https://data-api.polymarket.com/v2/prices-history?token_id=103502227257868648930155562667494664756217753218326084089472320347435597174870&start=1793013244&end=1793618044",
+   "status": 200,
+   "points": 1940,
+   "next_cursor": null,
+   "t_min": null,
+   "t_max": null,
+   "gap_seconds": null,
+   "row_keys": [
+    "price",
+    "resolution_seconds",
+    "timestamp"
+   ]
+  },
+  "90d": {
+   "url": "https://data-api.polymarket.com/v2/prices-history?token_id=103502227257868648930155562667494664756217753218326084089472320347435597174870&start=1785842044&end=1793618044",
+   "status": 400,
+   "points": 0,
+   "next_cursor": null,
+   "t_min": null,
+   "t_max": null,
+   "gap_seconds": null,
+   "row_keys": []
+  }
+ },
+ "g": {
+  "note": "ĐẾM MÔ TẢ TRONG 7 NGÀY, KHÔNG TÍNH LÃI, KHÔNG CHỌN k",
+  "wallets": {
+   "0xf0318c32136c2db7fec88b84869aee6a1106c80c": {
+    "url": "https://data-api.polymarket.com/v2/trades?user=0xf0318c32136c2db7fec88b84869aee6a1106c80c&taker_only=false&start=1793013257&end=1793618057&limit=500",
+    "rows": 500,
+    "n_buy": 462,
+    "n_distinct_condition": 23,
+    "next_cursor": "eyJkYXRhIjp7InR5cGUiOiJ0cmFkZXMiLCJwYXJhbXMiOnsibCI6NTAwLCJ0cyI6MTc5MzU5MDgxNiwic3EiOiI5NjU5MDI0MDAwMTM4MTIzOTAiLCJkIjo1MDB9fSwic2lnIjoiOWFhZjIxMDgzZTUwOGZhYzIzZmI1NDY3OTQ2ODM2ZGEifQ",
+    "has_more": true
+   },
+   "0xcdcccd0f2d86e450d973da415ad2430e5cc7935a": {
+    "url": "https://data-api.polymarket.com/v2/trades?user=0xcdcccd0f2d86e450d973da415ad2430e5cc7935a&taker_only=false&start=1793013257&end=1793618057&limit=500",
+    "rows": 0,
+    "n_buy": 0,
+    "n_distinct_condition": 0,
+    "next_cursor": null,
+    "has_more": false
+   },
+   "0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7": {
+    "url": "https://data-api.polymarket.com/v2/trades?user=0x2a69660046d7acc4ab204d7cc5ba78b0776cd2f7&taker_only=false&start=1793013257&end=1793618057&limit=500",
+    "rows": 500,
+    "n_buy": 500,
+    "n_distinct_condition": 117,
+    "next_cursor": "eyJkYXRhIjp7InR5cGUiOiJ0cmFkZXMiLCJwYXJhbXMiOnsibCI6NTAwLCJ0cyI6MTc5MzYxMDIwNSwic3EiOiI5NjYwMzE2NjAwMDMwMDM2MDAiLCJkIjo1MDB9fSwic2lnIjoiMTQ1MWQzNWM2NjNjZTU4YTNkZGQyYjA3MTEwNTAzOTMifQ",
+    "has_more": true
+   }
+  },
+  "n_wallets": 3,
+  "window_days": 7,
+  "total_buy_rows_7d_1page": 962,
+  "canh_trung_24h_toi_thieu_2_vi": 0,
+  "canh_trung_24h_toi_thieu_3_vi": 0,
+  "detail_top": [],
+  "uoc_linh_tinh": {
+   "k2_signals_per_7d_per_3wallets": 0,
+   "k3_signals_per_7d_per_3wallets": 0,
+   "canh_bao": "chỉ 1 trang request mỗi ví, has_more có thể còn trang sau; đây là CẠN DƯỚI của tốc độ tín hiệu"
+  }
+ }
+}

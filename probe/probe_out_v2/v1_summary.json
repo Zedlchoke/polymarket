@@ -1,0 +1,29 @@
+{
+ "requests": [
+  {
+   "url": "https://gamma-api.polymarket.com/markets?condition_ids=0x0256ef63427ed0d9eefa1422eee948165a2a215b0741a339025fb08b2cf6e15d%2C0x401c1614a93ddc098c97338b5452d887f4ca1617a4445c2a1a966b6aa58e28d7%2C0x51166276fa646ca50165f7d030c297138ed1d62dc41f6ffde21e962c44182074&limit=10",
+   "http": 200,
+   "rows": 0,
+   "tra_ra": []
+  },
+  {
+   "url": "https://gamma-api.polymarket.com/markets?condition_ids=0x0256ef63427ed0d9eefa1422eee948165a2a215b0741a339025fb08b2cf6e15d%2C0x401c1614a93ddc098c97338b5452d887f4ca1617a4445c2a1a966b6aa58e28d7%2C0x51166276fa646ca50165f7d030c297138ed1d62dc41f6ffde21e962c44182074&limit=10&closed=any",
+   "http": 200,
+   "rows": 0,
+   "tra_ra": []
+  },
+  {
+   "url": "https://gamma-api.polymarket.com/markets?slug=nba-mem-uta-2026-10-26&closed=any&limit=5",
+   "http": 200,
+   "rows": 1,
+   "tra_ra": [
+    "0x401c1614a93ddc098c97338b5452d887f4ca1617a4445c2a1a966b6aa58e28d7"
+   ]
+  }
+ ],
+ "missing": [
+  "0x0256ef63427ed0d9eefa1422eee948165a2a215b0741a339025fb08b2cf6e15d",
+  "0x401c1614a93ddc098c97338b5452d887f4ca1617a4445c2a1a966b6aa58e28d7",
+  "0x51166276fa646ca50165f7d030c297138ed1d62dc41f6ffde21e962c44182074"
+ ]
+}

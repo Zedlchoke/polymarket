@@ -1,0 +1,9710 @@
+{
+ "data": [
+  {
+   "timestamp": 1793013300,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793013600,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793013900,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793014200,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793014500,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793014800,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793015100,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793015400,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793015700,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793016000,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793016300,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793016600,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793016900,
+   "price": 0.635,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793017200,
+   "price": 0.635,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793017500,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793017800,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793018100,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793018400,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793018700,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793019000,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793019300,
+   "price": 0.635,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793019600,
+   "price": 0.635,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793019900,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793020200,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793020500,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793020800,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793021100,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793021400,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793021700,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793022000,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793022300,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793022600,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793022900,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793023200,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793023500,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793023800,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793024100,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793024400,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793024700,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793025000,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793025300,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793025600,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793025900,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793026200,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793026500,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793026800,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793027100,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793027400,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793027700,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793028000,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793028300,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793028600,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793028900,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793029200,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793029500,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793029800,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793030100,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793030400,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793030700,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793031000,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793031300,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793031600,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793031900,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793032200,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793032500,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793032800,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793033100,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793033400,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793033700,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793034000,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793034300,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793034600,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793034900,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793035200,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793035500,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793035800,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793036100,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793036400,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793036700,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793037000,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793037300,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793037600,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793037900,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793038200,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793038500,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793038800,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793039100,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793039400,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793039700,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793040000,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793040300,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793040600,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793040900,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793041200,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793041500,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793041800,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793042100,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793042400,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793042700,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793043000,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793043300,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793043600,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793043900,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793044200,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793044500,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793044800,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793045100,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793045400,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793045700,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793046000,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793046300,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793046600,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793046900,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793047200,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793047500,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793047800,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793048100,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793048400,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793048700,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793049000,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793049300,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793049600,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793049900,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793050200,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793050500,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793050800,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793051100,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793051400,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793051700,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793052000,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793052300,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793052600,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793052900,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793053200,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793053500,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793053800,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793054100,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793054400,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793054700,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793055000,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793055300,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793055600,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793055900,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793056200,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793056500,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793056800,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793057100,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793057400,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793057700,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793058000,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793058300,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793058600,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793058900,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793059200,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793059500,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793059800,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793060100,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793060400,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793060700,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793061000,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793061300,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793061600,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793061900,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793062200,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793062500,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793062800,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793063100,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793063400,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793063700,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793064000,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793064300,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793064600,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793064900,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793065200,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793065500,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793065800,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793066100,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793066400,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793066700,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793067000,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793067300,
+   "price": 0.64,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793067600,
+   "price": 0.635,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793067900,
+   "price": 0.635,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793068200,
+   "price": 0.63,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793068500,
+   "price": 0.63,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793068800,
+   "price": 0.63,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793069100,
+   "price": 0.63,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793069400,
+   "price": 0.635,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793069700,
+   "price": 0.645,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793070000,
+   "price": 0.645,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793070300,
+   "price": 0.645,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793070600,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793070900,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793071200,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793071500,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793071800,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793072100,
+   "price": 0.65,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793072400,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793072700,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793073000,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793073300,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793073600,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793073900,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793074200,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793074500,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793074800,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793075100,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793075400,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793075700,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793076000,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793076300,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793076600,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793076900,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793077200,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793077500,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793077800,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793078100,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793078400,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793078700,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793079000,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793079300,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793079600,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793079900,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793080200,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793080500,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793080800,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793081100,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793081400,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793081700,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793082000,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793082300,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793082600,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793082900,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793083200,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793083500,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793083800,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793084100,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793084400,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793084700,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793085000,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793085300,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793085600,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793085900,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793086200,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793086500,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793086800,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793087100,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793087400,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793087700,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793088000,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793088300,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793088600,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793088900,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793089200,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793089500,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793089800,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793090100,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793090400,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793090700,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793091000,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793091300,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793091600,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793091900,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793092200,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793092500,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793092800,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793093100,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793093400,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793093700,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793094000,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793094300,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793094600,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793094900,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793095200,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793095500,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793095800,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793096100,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793096400,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793096700,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793097000,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793097300,
+   "price": 0.66,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793097600,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793097900,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793098200,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793098500,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793098800,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793099100,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793099400,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793099700,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793100000,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793100300,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793100600,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793100900,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793101200,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793101500,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793101800,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793102100,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793102400,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793102700,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793103000,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793103300,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793103600,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793103900,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793104200,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793104500,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793104800,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793105100,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793105400,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793105700,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793106000,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793106300,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793106600,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793106900,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793107200,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793107500,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793107800,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793108100,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793108400,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793108700,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793109000,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793109300,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793109600,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793109900,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793110200,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793110500,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793110800,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793111100,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793111400,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793111700,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793112000,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793112300,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793112600,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793112900,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793113200,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793113500,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793113800,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793114100,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793114400,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793114700,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793115000,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793115300,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793115600,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793115900,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793116200,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793116500,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793116800,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793117100,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793117400,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793117700,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793118000,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793118300,
+   "price": 0.675,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793118600,
+   "price": 0.675,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793118900,
+   "price": 0.675,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793119200,
+   "price": 0.675,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793119500,
+   "price": 0.675,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793119800,
+   "price": 0.675,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793120100,
+   "price": 0.675,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793120400,
+   "price": 0.675,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793120700,
+   "price": 0.675,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793121000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793121300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793121600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793121900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793122200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793122500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793122800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793123100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793123400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793123700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793124000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793124300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793124600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793124900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793125200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793125500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793125800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793126100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793126400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793126700,
+   "price": 0.68,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793127000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793127300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793127600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793127900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793128200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793128500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793128800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793129100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793129400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793129700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793130000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793130300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793130600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793130900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793131200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793131500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793131800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793132100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793132400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793132700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793133000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793133300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793133600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793133900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793134200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793134500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793134800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793135100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793135400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793135700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793136000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793136300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793136600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793136900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793137200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793137500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793137800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793138100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793138400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793138700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793139000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793139300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793139600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793139900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793140200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793140500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793140800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793141100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793141400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793141700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793142000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793142300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793142600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793142900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793143200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793143500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793143800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793144100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793144400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793144700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793145000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793145300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793145600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793145900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793146200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793146500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793146800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793147100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793147400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793147700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793148000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793148300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793148600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793148900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793149200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793149500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793149800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793150100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793150400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793150700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793151000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793151300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793151600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793151900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793152200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793152500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793152800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793153100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793153400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793153700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793154000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793154300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793154600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793154900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793155200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793155500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793155800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793156100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793156400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793156700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793157000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793157300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793157600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793157900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793158200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793158500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793158800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793159100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793159400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793159700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793160000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793160300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793160600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793160900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793161200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793161500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793161800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793162100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793162400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793162700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793163000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793163300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793163600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793163900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793164200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793164500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793164800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793165100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793165400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793165700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793166000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793166300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793166600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793166900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793167200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793167500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793167800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793168100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793168400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793168700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793169000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793169300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793169600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793169900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793170200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793170500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793170800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793171100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793171400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793171700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793172000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793172300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793172600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793172900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793173200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793173500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793173800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793174100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793174400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793174700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793175000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793175300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793175600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793175900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793176200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793176500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793176800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793177100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793177400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793177700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793178000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793178300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793178600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793178900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793179200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793179500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793179800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793180100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793180400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793180700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793181000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793181300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793181600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793181900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793182200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793182500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793182800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793183100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793183400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793183700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793184000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793184300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793184600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793184900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793185200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793185500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793185800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793186100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793186400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793186700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793187000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793187300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793187600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793187900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793188200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793188500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793188800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793189100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793189400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793189700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793190000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793190300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793190600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793190900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793191200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793191500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793191800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793192100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793192400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793192700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793193000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793193300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793193600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793193900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793194200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793194500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793194800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793195100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793195400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793195700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793196000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793196300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793196600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793196900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793197200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793197500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793197800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793198100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793198400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793198700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793199000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793199300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793199600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793199900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793200200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793200500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793200800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793201100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793201400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793201700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793202000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793202300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793202600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793202900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793203200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793203500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793203800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793204100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793204400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793204700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793205000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793205300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793205600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793205900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793206200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793206500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793206800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793207100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793207400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793207700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793208000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793208300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793208600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793208900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793209200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793209500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793209800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793210100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793210400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793210700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793211000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793211300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793211600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793211900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793212200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793212500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793212800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793213100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793213400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793213700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793214000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793214300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793214600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793214900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793215200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793215500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793215800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793216100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793216400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793216700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793217000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793217300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793217600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793217900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793218200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793218500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793218800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793219100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793219400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793219700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793220000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793220300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793220600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793220900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793221200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793221500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793221800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793222100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793222400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793222700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793223000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793223300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793223600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793223900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793224200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793224500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793224800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793225100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793225400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793225700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793226000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793226300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793226600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793226900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793227200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793227500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793227800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793228100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793228400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793228700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793229000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793229300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793229600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793229900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793230200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793230500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793230800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793231100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793231400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793231700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793232000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793232300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793232600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793232900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793233200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793233500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793233800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793234100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793234400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793234700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793235000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793235300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793235600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793235900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793236200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793236500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793236800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793237100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793237400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793237700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793238000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793238300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793238600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793238900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793239200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793239500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793239800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793240100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793240400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793240700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793241000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793241300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793241600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793241900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793242200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793242500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793242800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793243100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793243400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793243700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793244000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793244300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793244600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793244900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793245200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793245500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793245800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793246100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793246400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793246700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793247000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793247300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793247600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793247900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793248200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793248500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793248800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793249100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793249400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793249700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793250000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793250300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793250600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793250900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793251200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793251500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793251800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793252100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793252400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793252700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793253000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793253300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793253600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793253900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793254200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793254500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793254800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793255100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793255400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793255700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793256000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793256300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793256600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793256900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793257200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793257500,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793257800,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793258100,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793258400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793258700,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793259000,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793259300,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793259600,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793259900,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793260200,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793260500,
+   "price": 0.7,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793260800,
+   "price": 0.7,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793261100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793261400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793261700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793262000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793262300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793262600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793262900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793263200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793263500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793263800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793264100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793264400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793264700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793265000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793265300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793265600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793265900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793266200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793266500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793266800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793267100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793267400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793267700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793268000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793268300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793268600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793268900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793269200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793269500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793269800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793270100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793270400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793270700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793271000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793271300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793271600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793271900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793272200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793272500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793272800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793273100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793273400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793273700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793274000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793274300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793274600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793274900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793275200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793275500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793275800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793276100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793276400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793276700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793277000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793277300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793277600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793277900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793278200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793278500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793278800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793279100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793279400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793279700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793280000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793280300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793280600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793280900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793281200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793281500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793281800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793282100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793282400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793282700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793283000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793283300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793283600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793283900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793284200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793284500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793284800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793285100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793285400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793285700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793286000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793286300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793286600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793286900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793287200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793287500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793287800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793288100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793288400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793288700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793289000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793289300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793289600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793289900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793290200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793290500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793290800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793291100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793291400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793291700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793292000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793292300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793292600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793292900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793293200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793293500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793293800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793294100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793294400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793294700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793295000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793295300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793295600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793295900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793296200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793296500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793296800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793297100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793297400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793297700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793298000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793298300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793298600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793298900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793299200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793299500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793299800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793300100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793300400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793300700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793301000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793301300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793301600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793301900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793302200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793302500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793302800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793303100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793303400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793303700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793304000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793304300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793304600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793304900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793305200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793305500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793305800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793306100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793306400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793306700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793307000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793307300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793307600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793307900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793308200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793308500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793308800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793309100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793309400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793309700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793310000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793310300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793310600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793310900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793311200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793311500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793311800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793312100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793312400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793312700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793313000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793313300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793313600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793313900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793314200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793314500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793314800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793315100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793315400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793315700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793316000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793316300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793316600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793316900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793317200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793317500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793317800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793318100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793318400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793318700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793319000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793319300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793319600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793319900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793320200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793320500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793320800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793321100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793321400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793321700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793322000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793322300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793322600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793322900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793323200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793323500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793323800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793324100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793324400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793324700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793325000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793325300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793325600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793325900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793326200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793326500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793326800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793327100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793327400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793327700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793328000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793328300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793328600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793328900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793329200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793329500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793329800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793330100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793330400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793330700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793331000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793331300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793331600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793331900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793332200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793332500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793332800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793333100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793333400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793333700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793334000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793334300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793334600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793334900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793335200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793335500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793335800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793336100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793336400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793336700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793337000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793337300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793337600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793337900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793338200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793338500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793338800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793339100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793339400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793339700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793340000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793340300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793340600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793340900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793341200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793341500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793341800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793342100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793342400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793342700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793343000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793343300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793343600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793343900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793344200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793344500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793344800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793345100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793345400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793345700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793346000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793346300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793346600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793346900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793347200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793347500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793347800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793348100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793348400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793348700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793349000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793349300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793349600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793349900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793350200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793350500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793350800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793351100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793351400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793351700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793352000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793352300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793352600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793352900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793353200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793353500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793353800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793354100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793354400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793354700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793355000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793355300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793355600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793355900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793356200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793356500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793356800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793357100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793357400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793357700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793358000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793358300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793358600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793358900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793359200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793359500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793359800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793360100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793360400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793360700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793361000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793361300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793361600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793361900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793362200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793362500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793362800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793363100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793363400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793363700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793364000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793364300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793364600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793364900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793365200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793365500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793365800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793366100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793366400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793366700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793367000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793367300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793367600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793367900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793368200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793368500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793368800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793369100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793369400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793369700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793370000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793370300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793370600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793370900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793371200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793371500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793371800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793372100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793372400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793372700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793373000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793373300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793373600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793373900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793374200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793374500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793374800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793375100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793375400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793375700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793376000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793376300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793376600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793376900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793377200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793377500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793377800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793378100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793378400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793378700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793379000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793379300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793379600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793379900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793380200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793380500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793380800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793381100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793381400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793381700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793382000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793382300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793382600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793382900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793383200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793383500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793383800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793384100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793384400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793384700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793385000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793385300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793385600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793385900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793386200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793386500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793386800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793387100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793387400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793387700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793388000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793388300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793388600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793388900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793389200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793389500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793389800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793390100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793390400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793390700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793391000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793391300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793391600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793391900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793392200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793392500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793392800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793393100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793393400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793393700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793394000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793394300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793394600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793394900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793395200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793395500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793395800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793396100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793396400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793396700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793397000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793397300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793397600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793397900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793398200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793398500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793398800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793399100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793399400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793399700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793400000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793400300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793400600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793400900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793401200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793401500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793401800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793402100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793402400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793402700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793403000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793403300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793403600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793403900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793404200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793404500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793404800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793405100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793405400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793405700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793406000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793406300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793406600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793406900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793407200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793407500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793407800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793408100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793408400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793408700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793409000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793409300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793409600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793409900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793410200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793410500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793410800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793411100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793411400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793411700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793412000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793412300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793412600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793412900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793413200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793413500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793413800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793414100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793414400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793414700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793415000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793415300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793415600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793415900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793416200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793416500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793416800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793417100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793417400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793417700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793418000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793418300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793418600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793418900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793419200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793419500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793419800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793420100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793420400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793420700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793421000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793421300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793421600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793421900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793422200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793422500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793422800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793423100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793423400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793423700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793424000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793424300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793424600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793424900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793425200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793425500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793425800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793426100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793426400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793426700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793427000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793427300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793427600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793427900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793428200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793428500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793428800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793429100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793429400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793429700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793430000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793430300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793430600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793430900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793431200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793431500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793431800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793432100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793432400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793432700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793433000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793433300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793433600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793433900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793434200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793434500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793434800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793435100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793435400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793435700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793436000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793436300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793436600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793436900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793437200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793437500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793437800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793438100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793438400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793438700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793439000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793439300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793439600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793439900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793440200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793440500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793440800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793441100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793441400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793441700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793442000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793442300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793442600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793442900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793443200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793443500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793443800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793444100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793444400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793444700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793445000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793445300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793445600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793445900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793446200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793446500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793446800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793447100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793447400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793447700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793448000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793448300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793448600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793448900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793449200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793449500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793449800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793450100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793450400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793450700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793451000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793451300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793451600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793451900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793452200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793452500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793452800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793453100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793453400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793453700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793454000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793454300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793454600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793454900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793455200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793455500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793455800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793456100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793456400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793456700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793457000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793457300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793457600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793457900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793458200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793458500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793458800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793459100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793459400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793459700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793460000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793460300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793460600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793460900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793461200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793461500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793461800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793462100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793462400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793462700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793463000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793463300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793463600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793463900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793464200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793464500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793464800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793465100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793465400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793465700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793466000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793466300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793466600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793466900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793467200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793467500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793467800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793468100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793468400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793468700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793469000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793469300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793469600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793469900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793470200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793470500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793470800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793471100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793471400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793471700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793472000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793472300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793472600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793472900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793473200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793473500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793473800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793474100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793474400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793474700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793475000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793475300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793475600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793475900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793476200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793476500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793476800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793477100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793477400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793477700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793478000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793478300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793478600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793478900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793479200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793479500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793479800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793480100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793480400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793480700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793481000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793481300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793481600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793481900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793482200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793482500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793482800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793483100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793483400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793483700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793484000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793484300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793484600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793484900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793485200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793485500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793485800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793486100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793486400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793486700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793487000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793487300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793487600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793487900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793488200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793488500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793488800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793489100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793489400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793489700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793490000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793490300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793490600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793490900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793491200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793491500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793491800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793492100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793492400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793492700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793493000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793493300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793493600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793493900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793494200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793494500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793494800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793495100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793495400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793495700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793496000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793496300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793496600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793496900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793497200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793497500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793497800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793498100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793498400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793498700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793499000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793499300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793499600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793499900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793500200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793500500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793500800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793501100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793501400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793501700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793502000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793502300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793502600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793502900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793503200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793503500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793503800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793504100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793504400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793504700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793505000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793505300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793505600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793505900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793506200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793506500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793506800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793507100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793507400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793507700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793508000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793508300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793508600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793508900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793509200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793509500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793509800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793510100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793510400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793510700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793511000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793511300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793511600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793511900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793512200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793512500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793512800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793513100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793513400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793513700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793514000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793514300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793514600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793514900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793515200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793515500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793515800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793516100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793516400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793516700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793517000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793517300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793517600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793517900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793518200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793518500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793518800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793519100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793519400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793519700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793520000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793520300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793520600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793520900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793521200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793521500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793521800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793522100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793522400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793522700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793523000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793523300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793523600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793523900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793524200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793524500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793524800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793525100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793525400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793525700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793526000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793526300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793526600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793526900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793527200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793527500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793527800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793528100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793528400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793528700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793529000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793529300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793529600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793529900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793530200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793530500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793530800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793531100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793531400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793531700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793532000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793532300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793532600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793532900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793533200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793533500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793533800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793534100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793534400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793534700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793535000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793535300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793535600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793535900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793536200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793536500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793536800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793537100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793537400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793537700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793538000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793538300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793538600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793538900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793539200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793539500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793539800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793540100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793540400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793540700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793541000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793541300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793541600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793541900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793542200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793542500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793542800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793543100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793543400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793543700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793544000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793544300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793544600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793544900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793545200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793545500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793545800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793546100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793546400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793546700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793547000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793547300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793547600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793547900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793548200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793548500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793548800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793549100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793549400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793549700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793550000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793550300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793550600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793550900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793551200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793551500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793551800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793552100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793552400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793552700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793553000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793553300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793553600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793553900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793554200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793554500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793554800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793555100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793555400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793555700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793556000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793556300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793556600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793556900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793557200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793557500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793557800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793558100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793558400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793558700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793559000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793559300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793559600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793559900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793560200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793560500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793560800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793561100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793561400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793561700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793562000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793562300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793562600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793562900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793563200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793563500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793563800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793564100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793564400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793564700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793565000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793565300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793565600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793565900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793566200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793566500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793566800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793567100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793567400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793567700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793568000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793568300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793568600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793568900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793569200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793569500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793569800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793570100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793570400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793570700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793571000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793571300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793571600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793571900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793572200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793572500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793572800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793573100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793573400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793573700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793574000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793574300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793574600,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793574900,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793575200,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793575500,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793575800,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793576100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793576400,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793576700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793577000,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793577300,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793577600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793577900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793578200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793578500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793578800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793579100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793579400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793579700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793580000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793580300,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793580600,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793580900,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793581200,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793581500,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793581800,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793582100,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793582400,
+   "price": 0.685,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793582700,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793583000,
+   "price": 0.725,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793583300,
+   "price": 0.615,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793583600,
+   "price": 0.655,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793583900,
+   "price": 0.565,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793584200,
+   "price": 0.605,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793584500,
+   "price": 0.405,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793584800,
+   "price": 0.385,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793585100,
+   "price": 0.375,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793585400,
+   "price": 0.395,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793585700,
+   "price": 0.405,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793586000,
+   "price": 0.455,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793586300,
+   "price": 0.555,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793586600,
+   "price": 0.605,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793586900,
+   "price": 0.645,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793587200,
+   "price": 0.645,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793587500,
+   "price": 0.605,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793587800,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793588100,
+   "price": 0.705,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793588400,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793588700,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793589000,
+   "price": 0.695,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793589300,
+   "price": 0.665,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793589600,
+   "price": 0.715,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793589900,
+   "price": 0.675,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793590200,
+   "price": 0.635,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793590500,
+   "price": 0.825,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793590800,
+   "price": 0.785,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793591100,
+   "price": 0.765,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793591400,
+   "price": 0.765,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793591700,
+   "price": 0.775,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793592000,
+   "price": 0.865,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793592300,
+   "price": 0.915,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793592600,
+   "price": 0.985,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793592900,
+   "price": 0.9995,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793593200,
+   "price": 0.9995,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793593500,
+   "price": 0.9995,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793593800,
+   "price": 0.9995,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793594100,
+   "price": 0.9995,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793594400,
+   "price": 0.9995,
+   "resolution_seconds": 300
+  },
+  {
+   "timestamp": 1793594474,
+   "price": 0.9995,
+   "resolution_seconds": 0
+  },
+  {
+   "timestamp": 1793594475,
+   "price": 1.0,
+   "resolution_seconds": 0
+  }
+ ],
+ "pagination": {
+  "limit": 10000,
+  "offset": 0,
+  "has_more": false,
+  "next_cursor": null
+ }
+}

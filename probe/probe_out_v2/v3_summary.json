@@ -1,0 +1,360 @@
+{
+ "sports_closed": {
+  "url": "https://gamma-api.polymarket.com/markets?sports_market_types=moneyline&closed=true&limit=8&order=volumeNum&ascending=false",
+  "http": 200,
+  "rows": 8,
+  "markets": [
+   {
+    "conditionId": "0xfef657b2f9ed83dd3db24c61d115203e836f9967289cd3281b6b91dcd7338104",
+    "q": "Will Paris Saint-Germain FC win on 2026-05-30?",
+    "slug": "ucl-psg-ars-2026-05-30-psg",
+    "tags": [],
+    "sportsMarketType": "moneyline",
+    "gameStartTime": "2026-05-30 16:00:00+00",
+    "event_title": "Paris Saint-Germain FC vs. Arsenal FC",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0x9c183f63913cee589ec7a8d584fb7743a541f724edc047837c053c027bdf9074",
+    "q": "Will Belgium win on 2026-07-01?",
+    "slug": "fifwc-bel-sen-2026-07-01-bel",
+    "tags": [],
+    "sportsMarketType": "moneyline",
+    "gameStartTime": "2026-07-01 20:00:00+00",
+    "event_title": "Belgium vs. Senegal",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0x204d24f3a0f5dd5fca825292bdeab6a97af3978b2caa2b21bb37e610eddfff5d",
+    "q": "Seahawks vs. Patriots",
+    "slug": "nfl-sea-ne-2026-02-08",
+    "tags": [],
+    "sportsMarketType": "moneyline",
+    "gameStartTime": "2026-02-08 23:30:00+00",
+    "event_title": "Seattle vs. New England",
+    "negRisk": false,
+    "outcomes": "[\"Seahawks\", \"Patriots\"]"
+   },
+   {
+    "conditionId": "0x688954ad8e279cc5febef6739d4f87acd3e42ca768ac6a8b621386a8578532ed",
+    "q": "Will Canada win on 2026-06-28?",
+    "slug": "fifwc-rsa-can-2026-06-28-can",
+    "tags": [],
+    "sportsMarketType": "moneyline",
+    "gameStartTime": "2026-06-28 19:00:00+00",
+    "event_title": "South Africa vs. Canada",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0x32552863fe8014da2613037970661f0d49f415c86a88cb3d65af7a43395bc4ad",
+    "q": "Will United States win on 2026-06-25?",
+    "slug": "fifwc-tur-usa-2026-06-25-usa",
+    "tags": [],
+    "sportsMarketType": "moneyline",
+    "gameStartTime": "2026-06-26 02:00:00+00",
+    "event_title": "Türkiye vs. United States",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0xa947b7c696453a288460a8e12aae31b854ca02d0b87970ffc259cec8a9fffcd2",
+    "q": "Will Morocco win on 2026-07-04?",
+    "slug": "fifwc-can-mar-2026-07-04-mar",
+    "tags": [],
+    "sportsMarketType": "moneyline",
+    "gameStartTime": "2026-07-04 17:00:00+00",
+    "event_title": "Canada vs. Morocco",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0x20fac1c925b7a2fed6b3b2736f47a800b4d0d4001b9deaeb7b918868eb63d081",
+    "q": "Will France win on 2026-07-14?",
+    "slug": "fifwc-fra-esp-2026-07-14-fra",
+    "tags": [],
+    "sportsMarketType": "moneyline",
+    "gameStartTime": "2026-07-14 19:00:00+00",
+    "event_title": "France vs. Spain",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0x232342e2a9200b203703a816f9d99d1c6a872333567af16f43d67a255e1a6aa8",
+    "q": "Will Germany win on 2026-06-20?",
+    "slug": "fifwc-ger-civ-2026-06-20-ger",
+    "tags": [],
+    "sportsMarketType": "moneyline",
+    "gameStartTime": "2026-06-20 20:00:00+00",
+    "event_title": "Germany vs. Côte d'Ivoire",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   }
+  ]
+ },
+ "nonsports_closed": {
+  "url": "https://gamma-api.polymarket.com/markets?closed=true&limit=12&order=volumeNum&ascending=false",
+  "http": 200,
+  "rows": 12,
+  "markets": [
+   {
+    "conditionId": "0xdd22472e552920b8438158ea7238bfadfa4f736aa4cee91a6b86c39ead110917",
+    "q": "Will Donald Trump win the 2024 US Presidential Election?",
+    "slug": "will-donald-trump-win-the-2024-us-presidential-election",
+    "tags": [],
+    "sportsMarketType": null,
+    "gameStartTime": null,
+    "event_title": "Presidential Election Winner 2024",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0xc6485bb7ea46d7bb89beb9c91e7572ecfc72a6273789496f78bc5e989e4d1638",
+    "q": "Will Kamala Harris win the 2024 US Presidential Election?",
+    "slug": "will-kamala-harris-win-the-2024-us-presidential-election",
+    "tags": [],
+    "sportsMarketType": null,
+    "gameStartTime": null,
+    "event_title": "Presidential Election Winner 2024",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0xc3d4155148681756bfe67bb41d8d0882a8a122e7d3762b3591bf6598c9bd198b",
+    "q": "Will Donald Trump be inaugurated?",
+    "slug": "will-donald-trump-be-inaugurated",
+    "tags": [],
+    "sportsMarketType": null,
+    "gameStartTime": null,
+    "event_title": "Who will be inaugurated as President? ",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0x763cc84a3cde36b9ce12a8afe6d3e1e3e46e50692e8ec47636c7803c1033cfab",
+    "q": "Will the Sacramento Kings win the 2025 NBA Finals?",
+    "slug": "will-the-sacramento-kings-win-the-2025-nba-finals",
+    "tags": [],
+    "sportsMarketType": null,
+    "gameStartTime": null,
+    "event_title": "NBA Champion",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0x3733a1b647e7364095736ab0966465d896a84cf3b6bc1695ca1f26c3239b3868",
+    "q": "MicroStrategy sells any Bitcoin by May 31, 2026?",
+    "slug": "microstrategy-sells-any-bitcoin-by-may-31-2026",
+    "tags": [],
+    "sportsMarketType": null,
+    "gameStartTime": "2026-06-01 17:00:00+00",
+    "event_title": "MicroStrategy sells any Bitcoin by ___ ?",
+    "negRisk": false,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0x9872fe47fbf6284e5399c0f41d6d2c8fb310d2f4d2d50635ab3b36f6a0a7f5b0",
+    "q": "Will Nicolae Ciucă win the 2024 Romanian Presidential election?",
+    "slug": "will-nicolae-ciuca-win-the-2024-romanian-presidential-election",
+    "tags": [],
+    "sportsMarketType": null,
+    "gameStartTime": null,
+    "event_title": "(Old) Romania Election",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0x6d0e09d0f04572d9b1adad84703458b0297bc5603b69dccbde93147ee4443246",
+    "q": "US forces enter Iran by April 30?",
+    "slug": "us-forces-enter-iran-by-april-30-899",
+    "tags": [],
+    "sportsMarketType": null,
+    "gameStartTime": null,
+    "event_title": "US forces enter Iran by..?",
+    "negRisk": false,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0x655e5ca101c466b6293aa15e06173b78b293221803d56e35551f708cd82eb352",
+    "q": "Will Zelenskyy wear a suit before July?",
+    "slug": "will-zelenskyy-wear-a-suit-before-july",
+    "tags": [],
+    "sportsMarketType": null,
+    "gameStartTime": "2025-07-01 13:33:00+00",
+    "event_title": "Will Zelenskyy wear a suit before July?",
+    "negRisk": false,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0x55c551896c10a74861f2fd88b4f928694310114704cc74b29b9760d1156cade6",
+    "q": "Will any other Republican Politician win the 2024 US Presidential Elec",
+    "slug": "will-any-other-republican-politician-win-the-2024-us-presidential-election",
+    "tags": [],
+    "sportsMarketType": null,
+    "gameStartTime": null,
+    "event_title": "Presidential Election Winner 2024",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0x17815081230e3b9c78b098162c33b1ffa68c4ec29c123d3d14989599e0c2e113",
+    "q": "Fed decreases interest rates by 50+ bps after January 2026 meeting?",
+    "slug": "fed-decreases-interest-rates-by-50-bps-after-january-2026-meeting",
+    "tags": [],
+    "sportsMarketType": null,
+    "gameStartTime": null,
+    "event_title": "Fed decision in January?",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0x7c6c69d91b21cbbea08a13d0ad51c0e96a956045aaadc77bce507c6b0475b66e",
+    "q": "Fed increases interest rates by 25+ bps after January 2026 meeting?",
+    "slug": "fed-increases-interest-rates-by-25-bps-after-january-2026-meeting",
+    "tags": [],
+    "sportsMarketType": null,
+    "gameStartTime": null,
+    "event_title": "Fed decision in January?",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0x1d2787cb8aed975d092b2799ed6f4083e9445f7420cdc09e9d47e7d54356c6cd",
+    "q": "US x Iran ceasefire extended by April 22, 2026?",
+    "slug": "us-x-iran-ceasefire-extended-by-april-22-2026",
+    "tags": [],
+    "sportsMarketType": null,
+    "gameStartTime": null,
+    "event_title": "US x Iran ceasefire extended by...?",
+    "negRisk": false,
+    "outcomes": "[\"Yes\", \"No\"]"
+   }
+  ]
+ },
+ "sports_open": {
+  "url": "https://gamma-api.polymarket.com/markets?sports_market_types=moneyline&closed=false&limit=5&order=volumeNum&ascending=false",
+  "http": 200,
+  "rows": 5,
+  "markets": [
+   {
+    "conditionId": "0x2ed08573267f5cfc1cbc1eec4e8b5dc7fd6e7e918dfcfd8b2684686166de66f8",
+    "q": "Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Grou",
+    "slug": "cs2-navi-fal2-2026-11-02",
+    "tags": [],
+    "sportsMarketType": "moneyline",
+    "gameStartTime": "2026-11-02 11:45:00+00",
+    "event_title": "Counter-Strike: Natus Vincere vs Team Falcons (BO3) - IEM Beijing Group A",
+    "negRisk": false,
+    "outcomes": "[\"Natus Vincere\", \"Team Falcons\"]"
+   },
+   {
+    "conditionId": "0x4b25bfc6028dcf60cf353d93bf737e5559d9b11897d01adf49bbaa64dac45468",
+    "q": "Rolex Paris Masters: Lorenzo Musetti vs Hubert Hurkacz",
+    "slug": "atp-musetti-hurkacz-2026-11-02",
+    "tags": [],
+    "sportsMarketType": "moneyline",
+    "gameStartTime": "2026-11-02 10:10:00+00",
+    "event_title": "Rolex Paris Masters: Lorenzo Musetti vs Hubert Hurkacz",
+    "negRisk": false,
+    "outcomes": "[\"Lorenzo Musetti\", \"Hubert Hurkacz\"]"
+   },
+   {
+    "conditionId": "0x3e4d20cb627ab0bcfab0e7fb48753765b3436dd121999befd2596572a6d2dc36",
+    "q": "Will Athletic Club win on 2026-10-10?",
+    "slug": "lal-ray-bil-2026-10-10-bil",
+    "tags": [],
+    "sportsMarketType": "moneyline",
+    "gameStartTime": "2026-10-10 12:00:00+00",
+    "event_title": "Rayo Vallecano de Madrid vs. Athletic Club",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0xea60e2e993fed8ea4571c5710872037167a385939c1c8146d58823a72b8f6647",
+    "q": "Will Newcastle United FC win on 2026-11-02?",
+    "slug": "epl-new-eve-2026-11-02-new",
+    "tags": [],
+    "sportsMarketType": "moneyline",
+    "gameStartTime": "2026-11-02 20:00:00+00",
+    "event_title": "Newcastle United FC vs. Everton FC",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0xcca7c358d9a041b10f11a206159ba9ce938fa3a1bd488f139ee606f93a5e3a3e",
+    "q": "Prudential Hong Kong Tennis Open: Venus Williams vs Mary Stoiana",
+    "slug": "wta-william-stoiana-2026-11-01",
+    "tags": [],
+    "sportsMarketType": "moneyline",
+    "gameStartTime": "2026-11-02 10:30:00+00",
+    "event_title": "Prudential Hong Kong Tennis Open: Venus Williams vs Mary Stoiana",
+    "negRisk": false,
+    "outcomes": "[\"Venus Williams\", \"Mary Stoiana\"]"
+   }
+  ]
+ },
+ "nonsports_open": {
+  "url": "https://gamma-api.polymarket.com/markets?closed=false&limit=5&order=volumeNum&ascending=false",
+  "http": 200,
+  "rows": 5,
+  "markets": [
+   {
+    "conditionId": "0x5db999fad322cea2914535aae5517060c3f80ad6d8c0231cde2124a434d16846",
+    "q": "Will the U.S. invade Iran before 2027?",
+    "slug": "will-the-us-invade-iran-before-2027",
+    "tags": [],
+    "sportsMarketType": null,
+    "gameStartTime": null,
+    "event_title": "Will the U.S. invade Iran before 2027?",
+    "negRisk": false,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0x0b4cc3b739e1dfe5d73274740e7308b6fb389c5af040c3a174923d928d134bee",
+    "q": "Will Jesus Christ return before 2027?",
+    "slug": "will-jesus-christ-return-before-2027",
+    "tags": [],
+    "sportsMarketType": null,
+    "gameStartTime": null,
+    "event_title": "Will Jesus Christ return before 2027?",
+    "negRisk": false,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0x836b850fc838195374862551a36f1c8691d96ff01e58b0a071f0fc1a0e357fb1",
+    "q": "Will LeBron James win the 2028 US Presidential Election?",
+    "slug": "will-lebron-james-win-the-2028-us-presidential-election",
+    "tags": [],
+    "sportsMarketType": null,
+    "gameStartTime": null,
+    "event_title": "Presidential Election Winner 2028",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0xe06a7e94cf2fa8dc2085b7610fe16e9be1cde6654f34d365c13da1149b276c61",
+    "q": "Will Oprah Winfrey win the 2028 Democratic presidential nomination?",
+    "slug": "will-oprah-winfrey-win-the-2028-democratic-presidential-nomination",
+    "tags": [],
+    "sportsMarketType": null,
+    "gameStartTime": null,
+    "event_title": "Democratic Presidential Nominee 2028",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   },
+   {
+    "conditionId": "0x30cfb887558b20373a984da60c372fe5a90c0296aa6d8bb413a8aa7543846da2",
+    "q": "Will Bernie Sanders win the 2028 Democratic presidential nomination?",
+    "slug": "will-bernie-sanders-win-the-2028-democratic-presidential-nomination-879",
+    "tags": [],
+    "sportsMarketType": null,
+    "gameStartTime": null,
+    "event_title": "Democratic Presidential Nominee 2028",
+    "negRisk": true,
+    "outcomes": "[\"Yes\", \"No\"]"
+   }
+  ]
+ }
+}

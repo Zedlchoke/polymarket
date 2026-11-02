@@ -1,0 +1,890 @@
+{
+ "n_pass": 120,
+ "n_fail": 0,
+ "results": [
+  {
+   "test": "phí @0.50 rate 0.03",
+   "input": "shares=200, price=0.50, rate=0.03",
+   "expected": "1.5",
+   "actual": "1.5",
+   "pass": true
+  },
+  {
+   "test": "phí @0.50 rate 0.05",
+   "input": "shares=200, price=0.50, rate=0.05",
+   "expected": "2.5",
+   "actual": "2.5",
+   "pass": true
+  },
+  {
+   "test": "phí theo giá copy 0.52",
+   "input": "stake 100, giá copy 0.52, rate 0.03",
+   "expected": "1.44",
+   "actual": "1.4399999999999997",
+   "pass": true
+  },
+  {
+   "test": "outcome_index 999 -> thiếu nhãn",
+   "input": "payouts=[1000000,0], idx=999",
+   "expected": "thiếu_nhãn_999",
+   "actual": "thiếu_nhãn_999",
+   "pass": true
+  },
+  {
+   "test": "báo động 999 trên 5%",
+   "input": "60/1000 dòng",
+   "expected": "True",
+   "actual": "True",
+   "pass": true
+  },
+  {
+   "test": "không báo động khi =5%",
+   "input": "50/1000 dòng",
+   "expected": "False",
+   "actual": "False",
+   "pass": true
+  },
+  {
+   "test": "lãi thua res=0",
+   "input": "shares=100/0.52, res=0, fee=1.44",
+   "expected": "-101.44",
+   "actual": "-101.44",
+   "pass": true
+  },
+  {
+   "test": "nguồn chốt lệch -> dừng",
+   "input": "payouts=[0,1000000] vs gamma ['1','0']",
+   "expected": "mismatch",
+   "actual": "mismatch",
+   "pass": true
+  },
+  {
+   "test": "payouts 0.7 bất thường -> dừng",
+   "input": "payouts=[700000,0]",
+   "expected": "mismatch",
+   "actual": "mismatch",
+   "pass": true
+  },
+  {
+   "test": "thiếu resolutions -> missing",
+   "input": "res_row=None",
+   "expected": "missing",
+   "actual": "missing",
+   "pass": true
+  },
+  {
+   "test": "nguồn chốt khớp",
+   "input": "payouts=[1000000,0] vs outcomePrices=['1','0']",
+   "expected": "ok",
+   "actual": "ok",
+   "pass": true
+  },
+  {
+   "test": "giá chốt từ payouts",
+   "input": "payouts=[1000000,0], idx=0",
+   "expected": "1.0",
+   "actual": "1.0",
+   "pass": true
+  },
+  {
+   "test": "giá chốt hòa payouts",
+   "input": "payouts=[500000,0], idx=0",
+   "expected": "0.5",
+   "actual": "0.5",
+   "pass": true
+  },
+  {
+   "test": "trạng thái ok kèm giá",
+   "input": "payouts=[1000000,0], idx=0",
+   "expected": "('ok', 1.0)",
+   "actual": "('ok', 1.0)",
+   "pass": true
+  },
+  {
+   "test": "hòa 0.5 = cp×0.5−100−phí",
+   "input": "shares=100/0.52, res=0.5, fee=1.44",
+   "expected": "-5.286154",
+   "actual": "-5.286154",
+   "pass": true
+  },
+  {
+   "test": "lãi thắng res=1",
+   "input": "shares=100/0.52, res=1, fee=1.44",
+   "expected": "90.867692",
+   "actual": "90.867692",
+   "pass": true
+  },
+  {
+   "test": "k=1 ròng 300 (tổng<500) không kích hoạt",
+   "input": "A ròng 300",
+   "expected": "False",
+   "actual": "False",
+   "pass": true
+  },
+  {
+   "test": "k=1 ròng 600 (tổng>=500) kích hoạt",
+   "input": "A 300+300",
+   "expected": "True",
+   "actual": "True",
+   "pass": true
+  },
+  {
+   "test": "k=2 sau 24h KHÔNG kích hoạt",
+   "input": "A@t0, B@t0+86401",
+   "expected": "False",
+   "actual": "False",
+   "pass": true
+  },
+  {
+   "test": "k=2 trong 24h kích hoạt",
+   "input": "A@t0 ròng300, B@t0+86399 ròng250 (tổng 550)",
+   "expected": "True",
+   "actual": "True",
+   "pass": true
+  },
+  {
+   "test": "B mua cửa ngược -> không đếm",
+   "input": "A ròng300, B ròng250 nhưng B mua 2 chiều",
+   "expected": "False",
+   "actual": "False",
+   "pass": true
+  },
+  {
+   "test": "A mua 300 bán 300 -> không đếm",
+   "input": "A ròng=0, B ròng 600",
+   "expected": "False",
+   "actual": "False",
+   "pass": true
+  },
+  {
+   "test": "tổng ròng các nhóm <500 -> không kích hoạt",
+   "input": "A 150 + B 150",
+   "expected": "False",
+   "actual": "False",
+   "pass": true
+  },
+  {
+   "test": "số nhóm = 2 (A+B gộp 1 nhóm, C riêng)",
+   "input": "3 ứng viên, A~B trùng 55",
+   "expected": "2",
+   "actual": "2",
+   "pass": true
+  },
+  {
+   "test": "nhóm đứng đầu chứa {0xA, 0xB} (roi.best = 0xA)",
+   "input": "",
+   "expected": "{'0xB', '0xA'}",
+   "actual": "{'0xB', '0xA'}",
+   "pass": true
+  },
+  {
+   "test": "nhóm thứ hai là 0xC riêng",
+   "input": "",
+   "expected": "{'0xC'}",
+   "actual": "{'0xC'}",
+   "pass": true
+  },
+  {
+   "test": "trùng 55, tỉ lệ 55/60",
+   "input": "X 100 lệnh, Y 60 lệnh, 55 trùng",
+   "expected": "(55, 0.916667)",
+   "actual": "(55, 0.916667)",
+   "pass": true
+  },
+  {
+   "test": "gộp khi đủ 50% + >=20",
+   "input": "shared=55",
+   "expected": "True",
+   "actual": "True",
+   "pass": true
+  },
+  {
+   "test": "trùng 15 <20 -> không gộp",
+   "input": "shared=15",
+   "expected": "False",
+   "actual": "False",
+   "pass": true
+  },
+  {
+   "test": "trùng 70, ít hơn là 100 -> tỉ lệ 0.70 -> GỘP (đúng luật chia số lệnh ít hơn)",
+   "input": "shared=70, min(100,200)=100",
+   "expected": "(70, 0.7)",
+   "actual": "(70, 0.7)",
+   "pass": true
+  },
+  {
+   "test": "trùng 40/100=0.40 <0.5 -> không gộp",
+   "input": "shared=40",
+   "expected": "(False, 0.4)",
+   "actual": "(False, 0.4)",
+   "pass": true
+  },
+  {
+   "test": "ví đạt hết 10 cửa",
+   "input": "vol 80k, 200 lệnh, 30 thị trường, roi 0.10",
+   "expected": "True",
+   "actual": "True",
+   "pass": true
+  },
+  {
+   "test": "mua 2 cửa cùng lúc -> tỉ lệ 1.0",
+   "input": "1 thị trường giữ 2 cửa",
+   "expected": "1.0",
+   "actual": "1.0",
+   "pass": true
+  },
+  {
+   "test": "chỉ 1 cửa -> tỉ lệ 0",
+   "input": "",
+   "expected": "0.0",
+   "actual": "0.0",
+   "pass": true
+  },
+  {
+   "test": "REWARD không tính vào chuỗi vị thế",
+   "input": "",
+   "expected": "0.0",
+   "actual": "0.0",
+   "pass": true
+  },
+  {
+   "test": "vol 49999 trượt cổng khối lượng",
+   "input": "{'cash_volume': 49999.0}",
+   "expected": "(False, 'vol')",
+   "actual": "(False, 'vol')",
+   "pass": true
+  },
+  {
+   "test": "79 lệnh trượt cổng lệnh (D5=80)",
+   "input": "{'n_trades': 79}",
+   "expected": "(False, 'trades')",
+   "actual": "(False, 'trades')",
+   "pass": true
+  },
+  {
+   "test": "19 thị trường trượt cổng thị trường",
+   "input": "{'n_markets': 19}",
+   "expected": "(False, 'markets')",
+   "actual": "(False, 'markets')",
+   "pass": true
+  },
+  {
+   "test": "hold_roi âm trượt",
+   "input": "{'hold_roi': -0.01}",
+   "expected": "(False, 'hold_roi')",
+   "actual": "(False, 'hold_roi')",
+   "pass": true
+  },
+  {
+   "test": "1 thị trường chiếm 60% lãi trượt",
+   "input": "{'max_market_pnl_share': 0.6}",
+   "expected": "(False, 'concentration')",
+   "actual": "(False, 'concentration')",
+   "pass": true
+  },
+  {
+   "test": "giữ 2 cửa 40% thị trường -> loại",
+   "input": "both=0.4",
+   "expected": "(False, 'both_sides')",
+   "actual": "(False, 'both_sides')",
+   "pass": true
+  },
+  {
+   "test": "chỉ 2 lệnh trong 14 ngày cuối -> trượt cổng còn chơi",
+   "input": "active=2",
+   "expected": "(False, 'active')",
+   "actual": "(False, 'active')",
+   "pass": true
+  },
+  {
+   "test": "bot: >2000 lệnh và lãi/khối lượng<1% -> loại",
+   "input": "2500 lệnh, 0.8%",
+   "expected": "(False, 'bot')",
+   "actual": "(False, 'bot')",
+   "pass": true
+  },
+  {
+   "test": "hold_pnl thắng fee 0",
+   "input": "100 USD @0.5, res 1.0",
+   "expected": "100.0",
+   "actual": "100.0",
+   "pass": true
+  },
+  {
+   "test": "hold_pnl hòa fee 0",
+   "input": "res 0.5",
+   "expected": "0.0",
+   "actual": "0.0",
+   "pass": true
+  },
+  {
+   "test": "hold_pnl thắng fee 0.03",
+   "input": "res 1.0",
+   "expected": "98.5",
+   "actual": "98.5",
+   "pass": true
+  },
+  {
+   "test": "hòa ROI: nhiều thị trường trước, rồi nhiều lệnh, rồi chữ cái",
+   "input": "A roi=10%/40tt/300l, B roi=10%/50tt/200l, C=B nhưng địa chỉ sau",
+   "expected": "['0xB', '0xC', '0xA']",
+   "actual": "['0xB', '0xC', '0xA']",
+   "pass": true
+  },
+  {
+   "test": "roi 0.055 không hơn k1 đủ 3đ% -> bỏ qua dù Điểm cao",
+   "input": "k2 diem=0.055 (cao nhất) nhưng không đủ điều kiện",
+   "expected": "3",
+   "actual": "3",
+   "pass": true
+  },
+  {
+   "test": "k2 ROI thô cao nhất nhưng Điểm thấp hơn k3 -> chọn k3",
+   "input": "k1 roi .03 | k2 roi .10 se=0.0246 | k3 roi .07 se=0.0014",
+   "expected": "3",
+   "actual": "3",
+   "pass": true
+  },
+  {
+   "test": "k chỉ 99 tín hiệu (<100) không được xét",
+   "input": "",
+   "expected": "3",
+   "actual": "3",
+   "pass": true
+  },
+  {
+   "test": "không k nào hơn k1 3đ% -> không chọn k*",
+   "input": "",
+   "expected": "(None, 'không_k_nào_thỏa_cả_ba_điều_kiện')",
+   "actual": "(None, 'không_k_nào_thỏa_cả_ba_điều_kiện')",
+   "pass": true
+  },
+  {
+   "test": "chênh Điểm <0.02 -> chọn k nhiều tín hiệu hơn",
+   "input": "diem3=0.06929 diem4=0.06941",
+   "expected": "(4, 'hòa_điểm_dưới_0.02_chọn_k_nhiều_tín_hiệu_hơn')",
+   "actual": "(4, 'hòa_điểm_dưới_0.02_chọn_k_nhiều_tín_hiệu_hơn')",
+   "pass": true
+  },
+  {
+   "test": "bootstrap gom sự kiện: tất cả dương -> CI trên 0",
+   "input": "30 sự kiện × 5 tín hiệu +20",
+   "expected": "True",
+   "actual": "True",
+   "pass": true
+  },
+  {
+   "test": "nửa sự kiện lỗ -> CI chứa 0 -> không qua tầng 2",
+   "input": "",
+   "expected": "False",
+   "actual": "False",
+   "pass": true
+  },
+  {
+   "test": "top1 28.6% > 25% -> cổng 7 trượt dù tổng dương và ROI 13.9%",
+   "input": "100 tín hiệu +10 và 1 tín hiệu +400 (đủ 101 tín hiệu)",
+   "expected": "(False, ['7_tập_trung'])",
+   "actual": "(False, ['7_tập_trung'])",
+   "pass": true
+  },
+  {
+   "test": "bỏ top-10 mà tổng lãi còn lại âm -> trượt cổng 7 (ROI vẫn >5%)",
+   "input": "",
+   "expected": "(False, ['7_tập_trung'])",
+   "actual": "(False, ['7_tập_trung'])",
+   "pass": true
+  },
+  {
+   "test": "phân bố đều -> qua tầng 1",
+   "input": "150 tín hiệu +10",
+   "expected": "True",
+   "actual": "True",
+   "pass": true
+  },
+  {
+   "test": "D1: giải lớn 88.9% -> cờ bật, KHÔNG lật verdict",
+   "input": "",
+   "expected": "True",
+   "actual": "True",
+   "pass": true
+  },
+  {
+   "test": "thiếu tầng 1 -> CHẾT",
+   "input": "",
+   "expected": "CHẾT",
+   "actual": "CHẾT",
+   "pass": true
+  },
+  {
+   "test": "qua T1 thiếu T2 -> CHƯA ĐỦ BẰNG CHỨNG",
+   "input": "",
+   "expected": "CHƯA ĐỦ BẰNG CHỨNG",
+   "actual": "CHƯA ĐỦ BẰNG CHỨNG",
+   "pass": true
+  },
+  {
+   "test": "qua cả hai -> SỐNG (backtest)",
+   "input": "",
+   "expected": "SỐNG_ở_backtest",
+   "actual": "SỐNG_ở_backtest",
+   "pass": true
+  },
+  {
+   "test": "feeSchedule có sẵn -> dùng rate thị trường",
+   "input": "rate 0.05, ts bất kỳ",
+   "expected": "(0.05, 'feeSchedule')",
+   "actual": "(0.05, 'feeSchedule')",
+   "pass": true
+  },
+  {
+   "test": "10-02-2026 -> phí 0 (bảng dự phòng)",
+   "input": "",
+   "expected": "(0.0, 'bảng_ngày_dự_phòng')",
+   "actual": "(0.0, 'bảng_ngày_dự_phòng')",
+   "pass": true
+  },
+  {
+   "test": "10-05-2026 -> phí 0.03",
+   "input": "",
+   "expected": "(0.03, 'bảng_ngày_dự_phòng')",
+   "actual": "(0.03, 'bảng_ngày_dự_phòng')",
+   "pass": true
+  },
+  {
+   "test": "10-08-2026 -> phí 0.05",
+   "input": "",
+   "expected": "(0.05, 'bảng_ngày_dự_phòng')",
+   "actual": "(0.05, 'bảng_ngày_dự_phòng')",
+   "pass": true
+  },
+  {
+   "test": "05-07-2026 khoảng trống -> FEE_MISSING, không đoán (V2/Sửa 3 đổi mã)",
+   "input": "",
+   "expected": "(None, 'FEE_MISSING')",
+   "actual": "(None, 'FEE_MISSING')",
+   "pass": true
+  },
+  {
+   "test": "ân hạn 14 ngày: 13 ngày -> đã chốt; 15 ngày/chưa -> chưa chốt",
+   "input": "",
+   "expected": "(['ok'], ['muộn', 'chưa'])",
+   "actual": "(['ok'], ['muộn', 'chưa'])",
+   "pass": true
+  },
+  {
+   "test": "tín hiệu 11 (id=10) bị bỏ vì đầy 10 lệnh mở; tín hiệu id=99 sau khi đóng được nhận",
+   "input": "10 lệnh mở tới t=10000, tín hiệu 11 t=110, tín hiệu 99 t=10001",
+   "expected": "([10], [99])",
+   "actual": "([10], [99])",
+   "pass": true
+  },
+  {
+   "test": "phạt mặc định 0.02 (backtest không spread)",
+   "input": "spread=None",
+   "expected": "0.02",
+   "actual": "0.02",
+   "pass": true
+  },
+  {
+   "test": "spread 0.005 -> phạt 0.02",
+   "input": "",
+   "expected": "0.02",
+   "actual": "0.02",
+   "pass": true
+  },
+  {
+   "test": "spread 0.07 -> phạt 0.07",
+   "input": "",
+   "expected": "0.07",
+   "actual": "0.07",
+   "pass": true
+  },
+  {
+   "test": "phạt nhạy cảm THAY THẾ: 0.50+0.05=0.55 (không phải 0.57)",
+   "input": "",
+   "expected": "0.55",
+   "actual": "0.55",
+   "pass": true
+  },
+  {
+   "test": "phí tính lại theo giá mới 0.55",
+   "input": "",
+   "expected": "1.35",
+   "actual": "1.35",
+   "pass": true
+  },
+  {
+   "test": "VWAP đủ 100 USD từ 2 lệnh",
+   "input": "60@0.5 + 40@0.6",
+   "expected": "0.5357142857",
+   "actual": "0.5357142857",
+   "pass": true
+  },
+  {
+   "test": "không đủ 100 USD trong 60 phút -> bỏ (thiếu độ sâu)",
+   "input": "",
+   "expected": "thiếu_độ_sâu_60_phút",
+   "actual": "thiếu_độ_sâu_60_phút",
+   "pass": true
+  },
+  {
+   "test": "lệnh thứ 2 sau 60 phút không dùng",
+   "input": "",
+   "expected": "thiếu_độ_sâu_60_phút",
+   "actual": "thiếu_độ_sâu_60_phút",
+   "pass": true
+  },
+  {
+   "test": "tag 'Sports' -> thể thao (luật đã duyệt)",
+   "input": "",
+   "expected": "(True, 'tag')",
+   "actual": "(True, 'tag')",
+   "pass": true
+  },
+  {
+   "test": "tags rỗng + sportsMarketType -> dự phòng coi là thể thao (§20.1 ĐỀ XUẤT)",
+   "input": "",
+   "expected": "(True, 'dự_phòng_smt')",
+   "actual": "(True, 'dự_phòng_smt')",
+   "pass": true
+  },
+  {
+   "test": "tags rỗng + chỉ gameStartTime (deadline phi thể thao) -> KHÔNG thể thao",
+   "input": "",
+   "expected": "(False, 'dự_phòng_không_xác_định')",
+   "actual": "(False, 'dự_phòng_không_xác_định')",
+   "pass": true
+  },
+  {
+   "test": "tên môn lấy tag cụ thể đầu tiên (bỏ tag chung)",
+   "input": "",
+   "expected": "NBA",
+   "actual": "NBA",
+   "pass": true
+  },
+  {
+   "test": "thể thao mùa vụ (Kings NBA Finals) -> ngoài phạm vi v1, đếm riêng",
+   "input": "",
+   "expected": "(False, 'thể_thao_mùa_vụ_ngoài_v1')",
+   "actual": "(False, 'thể_thao_mùa_vụ_ngoài_v1')",
+   "pass": true
+  },
+  {
+   "test": "lệnh trước giờ bóng -> trong phạm vi",
+   "input": "trade_ts < gameStartTime",
+   "expected": "(True, 'ok')",
+   "actual": "(True, 'ok')",
+   "pass": true
+  },
+  {
+   "test": "lệnh sau giờ bóng -> trong trận, loại khỏi v1",
+   "input": "trade_ts >= gameStartTime",
+   "expected": "(False, 'trong_trận_hoặc_sau_giờ_bóng')",
+   "actual": "(False, 'trong_trận_hoặc_sau_giờ_bóng')",
+   "pass": true
+  },
+  {
+   "test": "giá chạy 0.15 > 0.10 -> bỏ",
+   "input": "raw 0.65 vs nhóm đầu 0.50",
+   "expected": "True",
+   "actual": "True",
+   "pass": true
+  },
+  {
+   "test": "giá chạy đúng 0.10 -> không bỏ (ngưỡng 'quá')",
+   "input": "",
+   "expected": "False",
+   "actual": "False",
+   "pass": true
+  },
+  {
+   "test": "dải giá sau phạt 0.95 -> bỏ",
+   "input": "",
+   "expected": "False",
+   "actual": "False",
+   "pass": true
+  },
+  {
+   "test": "dải giá sau phạt 0.90 -> được",
+   "input": "",
+   "expected": "True",
+   "actual": "True",
+   "pass": true
+  },
+  {
+   "test": "dải giá sau phạt 0.10 -> được",
+   "input": "",
+   "expected": "True",
+   "actual": "True",
+   "pass": true
+  },
+  {
+   "test": "dải giá sau phạt 0.08 -> bỏ",
+   "input": "",
+   "expected": "False",
+   "actual": "False",
+   "pass": true
+  },
+  {
+   "test": "khối lượng tại kích hoạt 9.999 -> không đủ 10.000",
+   "input": "",
+   "expected": "False",
+   "actual": "False",
+   "pass": true
+  },
+  {
+   "test": "khối lượng đúng 10.000 -> đủ",
+   "input": "",
+   "expected": "True",
+   "actual": "True",
+   "pass": true
+  },
+  {
+   "test": "thị trường đầu của sự kiện -> copy",
+   "input": "",
+   "expected": "('copy', None)",
+   "actual": "('copy', None)",
+   "pass": true
+  },
+  {
+   "test": "thị trường sau cùng mã -> bỏ (đã copy)",
+   "input": "",
+   "expected": "('bỏ', 'thị_trường_đã_copy')",
+   "actual": "('bỏ', 'thị_trường_đã_copy')",
+   "pass": true
+  },
+  {
+   "test": "thị trường khác cùng sự kiện -> bỏ, ghi bảng 16",
+   "input": "",
+   "expected": "('bỏ', 'cùng_sự_kiện_đã_copy')",
+   "actual": "('bỏ', 'cùng_sự_kiện_đã_copy')",
+   "pass": true
+  },
+  {
+   "test": "bảng 16 ghi 1 dòng",
+   "input": "",
+   "expected": "1",
+   "actual": "1",
+   "pass": true
+  },
+  {
+   "test": "thị trường sự kiện khác -> copy",
+   "input": "",
+   "expected": "('copy', None)",
+   "actual": "('copy', None)",
+   "pass": true
+  },
+  {
+   "test": "vượt ngân sách request -> dừng",
+   "input": "",
+   "expected": "vượt ngân sách 1 request",
+   "actual": "vượt ngân sách 1 request",
+   "pass": true
+  },
+  {
+   "test": "phân trang cursor tới null gộp 3 dòng 2 trang",
+   "input": "",
+   "expected": "(3, 2, False)",
+   "actual": "(3, 2, False)",
+   "pass": true
+  },
+  {
+   "test": "RFC3339 lẻ giây -> làm tròn XUỐNG (§19.6)",
+   "input": "2026-07-19T22:53:46.999Z",
+   "expected": "1784501626",
+   "actual": "1784501626",
+   "pass": true
+  },
+  {
+   "test": "1970 + 59.999s -> 59",
+   "input": "",
+   "expected": "59",
+   "actual": "59",
+   "pass": true
+  },
+  {
+   "test": "response chậm bất thường -> watchdog dừng",
+   "input": "5 request 0.1s rồi 1 request 7s",
+   "expected": "True",
+   "actual": "True",
+   "pass": true
+  },
+  {
+   "test": "HTTP 429 -> DỪNG TOÀN BỘ, ghi Retry-After",
+   "input": "",
+   "expected": "HTTP 429 — Retry-After=60",
+   "actual": "HTTP 429 — Retry-After=60",
+   "pass": true
+  },
+  {
+   "test": "bảng dải giá đủ 3 dải đúng nhóm",
+   "input": "",
+   "expected": "3",
+   "actual": "3",
+   "pass": true
+  },
+  {
+   "test": "dải 0.10–0.30 có 1 tín hiệu pnl 10",
+   "input": "",
+   "expected": "(1, 10.0)",
+   "actual": "(1, 10.0)",
+   "pass": true
+  },
+  {
+   "test": "đủ 18 bảng, mỗi bảng ghi rõ tính điểm/mô tả",
+   "input": "",
+   "expected": "18",
+   "actual": "18",
+   "pass": true
+  },
+  {
+   "test": "các bảng chạm verdict: 8, 9, 10, 12",
+   "input": "",
+   "expected": "[8, 9, 10, 12]",
+   "actual": "[8, 9, 10, 12]",
+   "pass": true
+  },
+  {
+   "test": "bảng 11 ghi CẤM cứu verdict",
+   "input": "",
+   "expected": "True",
+   "actual": "True",
+   "pass": true
+  },
+  {
+   "test": "tỷ lệ bỏ 15/85=17.6% -> qua cổng <=30%",
+   "input": "",
+   "expected": "(0.176471, True)",
+   "actual": "(0.176471, True)",
+   "pass": true
+  },
+  {
+   "test": "tỷ lệ bỏ 33.3% -> trượt cổng",
+   "input": "",
+   "expected": "False",
+   "actual": "False",
+   "pass": true
+  },
+  {
+   "test": "khoảng thiếu phí KHÔNG trả 0 hay 0,03/0,05",
+   "input": "",
+   "expected": "(None, 'FEE_MISSING')",
+   "actual": "(None, 'FEE_MISSING')",
+   "pass": true
+  },
+  {
+   "test": "khoảng 01→09-07 không feeSchedule -> FEE_MISSING",
+   "input": "ts=05-07-2026",
+   "expected": "FEE_MISSING",
+   "actual": "FEE_MISSING",
+   "pass": true
+  },
+  {
+   "test": "bảng bỏ có mục lý_do_thiếu_phí, tỷ lệ 1/20",
+   "input": "",
+   "expected": "(1, 0.05, True)",
+   "actual": "(1, 0.05, True)",
+   "pass": true
+  },
+  {
+   "test": "tín hiệu thiếu phí bị bỏ, 2 tín hiệu còn lấy",
+   "input": "",
+   "expected": "(['b', 'c'], [{'id': 'a', 'lý_do': 'thiếu_phí'}])",
+   "actual": "(['b', 'c'], [{'id': 'a', 'lý_do': 'thiếu_phí'}])",
+   "pass": true
+  },
+  {
+   "test": "volume cuối đoạn thấp -> KHÔNG phải giải lớn dù volumeNum cuối cao",
+   "input": "8 markets, seg_end 4.000/20 sự kiện (ngưỡng top 5% = 100.000)",
+   "expected": "False",
+   "actual": "False",
+   "pass": true
+  },
+  {
+   "test": "dưới 8 thị trường con -> không phải giải lớn",
+   "input": "",
+   "expected": "False",
+   "actual": "False",
+   "pass": true
+  },
+  {
+   "test": "chỉ có volumeNum cuối -> trả chưa phân loại, chỉ mô tả sau chốt",
+   "input": "",
+   "expected": "(None, 'chỉ_có_volumeNum_cuối_chỉ_mô_tả_sau_chốt')",
+   "actual": "(None, 'chỉ_có_volumeNum_cuối_chỉ_mô_tả_sau_chốt')",
+   "pass": true
+  },
+  {
+   "test": "volume cuối đoạn ở top 5% -> là giải lớn cho đoạn đó",
+   "input": "seg_end 150.000 >= ngưỡng 100.000",
+   "expected": "True",
+   "actual": "True",
+   "pass": true
+  },
+  {
+   "test": "bootstrap seed cố định -> hai lần chạy cho CI giống hệt",
+   "input": "",
+   "expected": "True",
+   "actual": "True",
+   "pass": true
+  },
+  {
+   "test": "bảng trạng thái §19 = 3 mục duyệt hường, 4 mục đã duyệt, 2 chưa duyệt",
+   "input": "theo file quyết định hash 01248d55…",
+   "expected": "{'19.1': 'DUYỆT VỀ HƯỚNG', '19.2': 'ĐÃ DUYỆT', '19.3': 'ĐÃ DUYỆT', '19.4': 'ĐÃ DUYỆT', '19.5': 'DUYỆT VỀ HƯỚNG', '19.6': 'ĐÃ DUYỆT', '19.7': 'CHƯA DUYỆT', '19.8': 'CHƯA DUYỆT', '19.9': 'DUYỆT VỀ HƯỚNG'}",
+   "actual": "{'19.1': 'DUYỆT VỀ HƯỚNG', '19.2': 'ĐÃ DUYỆT', '19.3': 'ĐÃ DUYỆT', '19.4': 'ĐÃ DUYỆT', '19.5': 'DUYỆT VỀ HƯỚNG', '19.6': 'ĐÃ DUYỆT', '19.7': 'CHƯA DUYỆT', '19.8': 'CHƯA DUYỆT', '19.9': 'DUYỆT VỀ HƯỚNG'}",
+   "pass": true
+  },
+  {
+   "test": "mọi hằng TỰ CHỌN đều nằm trong registry SELF_CHOSEN (7 hằng)",
+   "input": "FEE_MISSING_ALERT, MAJOR_MIN_MARKETS, MAJOR_TOP_SHARE, K_CONTROL, N_BOOT, BOOTSTRAP_SEED, MAX_PAGES",
+   "expected": "7",
+   "actual": "7",
+   "pass": true
+  }
+ ],
+ "v1_fix_audit": [
+  {
+   "lỗi": "code thật — thứ tự trả về resolve_price không nhất quán với resolution_decision",
+   "trước": "resolve_price trả (giá_trị, trạng_thái); resolution_decision trả (trạng_thái, giá_trị)",
+   "sau": "cả hai trả (trạng_thái, giá_trị) — resolve_price V2: ('ok', 1.0)",
+   "chứng_minh": "§19.2 quyết định chủ nhân: trạng thái nguồn chốt phải đọc được đồng nhất trước khi lấy giá; giao diện nhất quán là điều kiện kiểm tra dừng-được khi lệch"
+  },
+  {
+   "lỗi": "test soạn thảo — chia sai mẫu số tỉ lệ gộp nhóm",
+   "trước": "kỳ vọng trùng 70 / 200 = 0,35 <0,5 -> không gộp",
+   "sau": "tỉ lệ = trùng / SỐ LỆNH ÍT HƠN = 70 / min(100,200) = 0,70 -> GỘP; thêm W2 40/100=0,40 -> không gộp",
+   "chứng_minh": "Tổng hợp Q3.10: 'số lệnh trùng / số lệnh ít hơn trong hai ví ≥ 50%'"
+  },
+  {
+   "lỗi": "test soạn thảo — input 21 tín hiệu làm cổng 1 tự trượt",
+   "trước": "20 tín hiệu +10 và 1 tín hiệu +400 (out_n=21 <100)",
+   "sau": "100 tín hiệu +10 và 1 tín hiệu +400 (out_n=101; top1=28,6%>25%; ROI 13,9%>5%)",
+   "chứng_minh": "Tổng hợp Q9 tầng 1 cổng 1: ngoài mẫu ≥ 100 tín hiệu"
+  },
+  {
+   "lỗi": "test soạn thảo — input ex-top10 có ROI 2,3% tự trượt cổng 4",
+   "trước": "[500] + 100×(−5) + 4×60 → tổng 240, ROI 2,3% <5%",
+   "sau": "[1000] + 100×(−2) + 4×70 → tổng 1080, ROI 10,3% >5%; bỏ top-10 còn −200 <0",
+   "chứng_minh": "Tổng hợp Q9 tầng 1 cổng 4 (ROI >5%) và cổng 7 (bỏ 10 lãi nhất vẫn >0)"
+  },
+  {
+   "lỗi": "test soạn thảo — đảo thứ tự tuple (skip, accepted)",
+   "trước": "mong đợi ([99],[10])",
+   "sau": "mong đợi (skip=[10], accepted_cuối=[99])",
+   "chứng_minh": "Tổng hợp Q6: tín hiệu mới khi đủ 10 lệnh mở thì bị bỏ, ghi riêng số bị bỏ vì đầy vốn"
+  },
+  {
+   "lỗi": "test soạn thảo — so float đủ độ chính xác với giá trị đã làm tròn",
+   "trước": "0.17647058823529413 so với round(...,6)",
+   "sau": "hai bên cùng round 6 chữ số",
+   "chứng_minh": "hạ tầng kỹ thuật của test, không đổi luật"
+  },
+  {
+   "lỗi": "test soạn thảo — import hold_pnl từ ledger thay vì selection",
+   "trước": "ledger.hold_pnl (không tồn tại)",
+   "sau": "selection.hold_pnl",
+   "chứng_minh": "hold_pnl là luật Q3.4, đặt ở module selection"
+  }
+ ]
+}

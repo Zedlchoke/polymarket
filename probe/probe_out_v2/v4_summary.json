@@ -1,0 +1,34 @@
+{
+ "clob_book_now": {
+  "url": "https://clob.polymarket.com/book?token_id=103502227257868648930155562667494664756217753218326084089472320347435597174870",
+  "http": 404,
+  "keys": "list",
+  "n_bids_levels": null,
+  "n_asks_levels": null
+ },
+ "tokens": {
+  "url": "https://data-api.polymarket.com/v2/tokens?token_id=103502227257868648930155562667494664756217753218326084089472320347435597174870",
+  "http": 200,
+  "rows": 1,
+  "row_keys": [
+   "clob_index",
+   "closed",
+   "condition_id",
+   "event_id",
+   "event_slug",
+   "final_price",
+   "market_slug",
+   "module",
+   "neg_risk",
+   "neg_risk_market_id",
+   "opposite_token_id",
+   "outcome",
+   "outcome_index",
+   "question_index",
+   "resolved",
+   "structural_condition_id",
+   "title",
+   "token_id"
+  ]
+ }
+}
