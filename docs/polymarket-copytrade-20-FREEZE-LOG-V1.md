@@ -59,3 +59,9 @@ Code đi kèm: `~/Downloads/Polymarket/copytrade_build_v2/` — 10 file, test d�
 - Việc B (hồ sơ 20 nhóm + backtest): **CHƯA CHẠY** — chờ chủ nhân kiểm tra hash.
 - Việc C (overlap PaperDesk): **CHƯA CHẠY** — chờ cùng lệnh trên.
 - Chưa chạy hồ sơ tính điểm, chưa chạy backtest tính điểm, chưa chọn k*, chưa có verdict.
+
+## GO — 2026-11-02
+
+Chủ nhân ra lệnh văn bản: "hash đúng, chạy tiếp" (sau khi kiểm tra hash và chuyển gói cho coordinator qua repo github.com/Zedlchoke/polymarket).
+Mở khóa: Việc B (hồ sơ 20 nhóm + backtest dưới spec đóng băng) và Việc C (overlap PaperDesk, chỉ mô tả).
+Điểm bắt đầu: hồ sơ Q3 trên đoạn 1 mốc B (2025-09-13 → 2025-12-12), ngân sách ~200 request/ngày, 10 giây/request.
