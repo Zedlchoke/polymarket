@@ -1,0 +1,22 @@
+{
+ "complete": false,
+ "rows_total_pages": 48212,
+ "unique_ids": 33453,
+ "counts": {
+  "mua_vu": 6521,
+  "HOP_LE": 8268,
+  "phi_theo_thao": 17453,
+  "thieu_gst": 189,
+  "phi_theo_thao_anomaly_co_smt": 717,
+  "gst_truoc_D1": 159,
+  "gst_sau_D1": 146
+ },
+ "valid_theo_thang": {
+  "2025-09": 845,
+  "2025-10": 3299,
+  "2025-11": 3874,
+  "2025-12": 250
+ },
+ "n_valid": 8268,
+ "ghi_chu": "VẪN LÀ CẬN DƯỚI — còn cửa sổ chưa kết thúc tự nhiên: 4007 (xem coverage_fixed.json)"
+}
