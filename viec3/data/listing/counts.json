@@ -1,0 +1,26 @@
+{
+ "anomaly_smt_set_no_sports_tag": 0,
+ "dup_rows": 0,
+ "empty_tags_fallback_gst_in_D1": 0,
+ "empty_tags_fallback_suspect": 0,
+ "gst_after_D1": 0,
+ "gst_before_D1": 0,
+ "non_null_tags_but_no_sports_smt_empty": 0,
+ "non_sports": 874,
+ "pages": 22,
+ "rows_returned": 2100,
+ "seasonal_smt_empty": 1159,
+ "smt_set_gst_missing": 66,
+ "sports_tag": 1226,
+ "tag_conflict_sports_politics": 0,
+ "unique_ids": 2100,
+ "valid_D1": 1,
+ "window": {
+  "T0": 1757721600,
+  "T1": 1765497600,
+  "end_date_max": "2025-12-26",
+  "end_date_min": "2025-09-13",
+  "note": "volumeNum chỉ mô tả; ngưỡng 10k đo từ trade đoạn 1",
+  "total_pages": 22
+ }
+}

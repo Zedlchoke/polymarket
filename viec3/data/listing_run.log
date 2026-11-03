@@ -1,0 +1,48 @@
+trang 1 off=0 rows=100 | unique=100 valid_D1=0 | requests pha=1 (hôm nay 14)
+trang 2 off=100 rows=100 | unique=200 valid_D1=0 | requests pha=2 (hôm nay 15)
+trang 3 off=200 rows=100 | unique=300 valid_D1=0 | requests pha=3 (hôm nay 16)
+trang 4 off=300 rows=100 | unique=400 valid_D1=0 | requests pha=4 (hôm nay 17)
+trang 5 off=400 rows=100 | unique=500 valid_D1=0 | requests pha=5 (hôm nay 18)
+trang 6 off=500 rows=100 | unique=600 valid_D1=0 | requests pha=6 (hôm nay 19)
+trang 7 off=600 rows=100 | unique=700 valid_D1=1 | requests pha=7 (hôm nay 20)
+trang 8 off=700 rows=100 | unique=800 valid_D1=1 | requests pha=8 (hôm nay 21)
+trang 9 off=800 rows=100 | unique=900 valid_D1=1 | requests pha=9 (hôm nay 22)
+trang 10 off=900 rows=100 | unique=1000 valid_D1=1 | requests pha=10 (hôm nay 23)
+trang 11 off=1000 rows=100 | unique=1100 valid_D1=1 | requests pha=11 (hôm nay 24)
+trang 12 off=1100 rows=100 | unique=1200 valid_D1=1 | requests pha=12 (hôm nay 25)
+trang 13 off=1200 rows=100 | unique=1300 valid_D1=1 | requests pha=13 (hôm nay 26)
+trang 14 off=1300 rows=100 | unique=1400 valid_D1=1 | requests pha=14 (hôm nay 27)
+trang 15 off=1400 rows=100 | unique=1500 valid_D1=1 | requests pha=15 (hôm nay 28)
+trang 16 off=1500 rows=100 | unique=1600 valid_D1=1 | requests pha=16 (hôm nay 29)
+trang 17 off=1600 rows=100 | unique=1700 valid_D1=1 | requests pha=17 (hôm nay 30)
+trang 18 off=1700 rows=100 | unique=1800 valid_D1=1 | requests pha=18 (hôm nay 31)
+trang 19 off=1800 rows=100 | unique=1900 valid_D1=1 | requests pha=19 (hôm nay 32)
+trang 20 off=1900 rows=100 | unique=2000 valid_D1=1 | requests pha=20 (hôm nay 33)
+trang 21 off=2000 rows=100 | unique=2100 valid_D1=1 | requests pha=21 (hôm nay 34)
+TRANG TRỐNG/LỖI tại offset 2100 — coi như hết (rows=0)
+COUNTS: {
+ "pages": 22,
+ "rows_returned": 2100,
+ "unique_ids": 2100,
+ "dup_rows": 0,
+ "sports_tag": 1226,
+ "non_sports": 874,
+ "tag_conflict_sports_politics": 0,
+ "seasonal_smt_empty": 1159,
+ "smt_set_gst_missing": 66,
+ "valid_D1": 1,
+ "gst_before_D1": 0,
+ "gst_after_D1": 0,
+ "empty_tags_fallback_suspect": 0,
+ "empty_tags_fallback_gst_in_D1": 0,
+ "anomaly_smt_set_no_sports_tag": 0,
+ "non_null_tags_but_no_sports_smt_empty": 0,
+ "window": {
+  "end_date_min": "2025-09-13",
+  "end_date_max": "2025-12-26",
+  "T0": 1757721600,
+  "T1": 1765497600,
+  "total_pages": 22,
+  "note": "volumeNum chỉ mô tả; ngưỡng 10k đo từ trade đoạn 1"
+ }
+}

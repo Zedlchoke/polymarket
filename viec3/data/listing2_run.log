@@ -1,0 +1,30 @@
+Sau khi nạp run 1: seen=2306 | buckets={'valid': 1, 'seasonal': 1365, 'smt_gst_missing': 66, 'non_sports_plain': 874} | extra={'pages': 0, 'rows_returned': 0, 'dup_rows': 1226, 'gst_before_D1': 0, 'gst_after_D1': 0, 'non_sports': 874, 'tag_conflict_sports_politics': 0, 'empty_tags_fallback_gst_in_D1': 0}
+Bắt đầu bisection cửa sổ 2025-09-13 → 2025-12-26 | đã thấy 2306 id (valid=1)
+LÁT 2025-09-13→2025-12-26: CAP (21 trang) | seen=2306 valid=1 | req pha=0 (hôm nay 66)
+LÁT 2025-09-13→2025-11-04: CAP (21 trang) | seen=2777 valid=1 | req pha=0 (hôm nay 66)
+LÁT 2025-11-05→2025-12-26: CAP (21 trang) | seen=4284 valid=329 | req pha=19 (hôm nay 85)
+LÁT 2025-09-13→2025-10-09: CAP (21 trang) | seen=4843 valid=387 | req pha=41 (hôm nay 107)
+LÁT 2025-10-10→2025-11-04: CAP (21 trang) | seen=6384 valid=600 | req pha=63 (hôm nay 129)
+LÁT 2025-11-05→2025-11-30: CAP (21 trang) | seen=6908 valid=753 | req pha=85 (hôm nay 151)
+LÁT 2025-12-01→2025-12-26: CAP (21 trang) | seen=8496 valid=842 | req pha=107 (hôm nay 173)
+Traceback (most recent call last):
+  File "/Users/hoangminhlong/Downloads/Polymarket/viec3/scripts/v3_phase_list2.py", line 183, in <module>
+    status, np_ = fetch_slice(dmin, dmax)
+                  ~~~~~~~~~~~^^^^^^^^^^^^
+  File "/Users/hoangminhlong/Downloads/Polymarket/viec3/scripts/v3_phase_list2.py", line 156, in fetch_slice
+    doc, st = h.get(GAMMA_API + "/markets?" + urllib.parse.urlencode(q),
+              ~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+                    "l2_%s_%s_off%d" % (dmin, dmax, offset))
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/hoangminhlong/Downloads/Polymarket/viec3/scripts/viec3_lib.py", line 124, in get
+    raise StopRun("RESPONSE CHẬM BẤT THƯỜNG %d ms (> %d ms) — dừng toàn bộ theo luật"
+                  % (dt_ms, LAT_HARD_STOP_MS))
+viec3_lib.StopRun: RESPONSE CHẬM BẤT THƯỜNG 5697 ms (> 5000 ms) — dừng toàn bộ theo luật
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/Users/hoangminhlong/Downloads/Polymarket/viec3/scripts/v3_phase_list2.py", line 184, in <module>
+    except StopRun as e:
+           ^^^^^^^
+NameError: name 'StopRun' is not defined
