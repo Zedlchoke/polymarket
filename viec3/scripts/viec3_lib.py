@@ -26,6 +26,65 @@ class StopRun(Exception):
     """Dừng toàn bộ theo luật — không retry ngay, không tăng tốc bù."""
 
 
+SAIGON = __import__("datetime").timezone(__import__("datetime").timedelta(hours=7))
+
+
+def saigon_date(ts_utc=None):
+    """Ngày dương lịch theo giờ Việt Nam (Asia/Saigon) của một timestamp UTC ('%Y-%m-%dT%H:%M:%SZ') hoặc của hiện tại."""
+    import datetime
+    if ts_utc:
+        dt = datetime.datetime.strptime(ts_utc, "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=datetime.timezone.utc)
+    else:
+        dt = datetime.datetime.now(datetime.timezone.utc)
+    return dt.astimezone(SAIGON).strftime("%Y-%m-%d")
+
+
+def acquire_lock(lock_path, cmd):
+    """Khóa tiến trình: nếu khóa còn tiến trình SỐNG -> trả None (từ chối chạy).
+    Khóa sót từ tiến trình đã chết -> xác minh pid không sống, ghi log, rồi thay khóa mới."""
+    import json as _json, os as _os, subprocess, time as _time
+    if _os.path.exists(lock_path):
+        try:
+            old = _json.load(open(lock_path, encoding="utf-8"))
+            pid = old.get("pid")
+            alive = False
+            try:
+                _os.kill(int(pid), 0)
+                alive = True
+            except (ProcessLookupError, ValueError, TypeError):
+                alive = False
+            except PermissionError:
+                alive = True  # tiến trình sống nhưng không thuộc user mình -> coi là sống
+            if alive:
+                # đối chiếu thêm lệnh ps cho chắc
+                try:
+                    out = subprocess.run(["ps", "-p", str(pid), "-o", "command="], capture_output=True, text=True, timeout=5)
+                    alive = bool(out.stdout.strip())
+                except Exception:
+                    pass
+            if alive:
+                return None, old
+            with open(lock_path + ".dead.log", "a", encoding="utf-8") as f:
+                f.write(_time.strftime("%Y-%m-%dT%H:%M:%SZ", _time.gmtime()) +
+                        " khóa sót pid=%s đã chết (kill-0 lỗi + ps trống) -> xóa, xin khóa mới | cmd cũ: %s\n"
+                        % (pid, old.get("cmd")))
+        except Exception as e:
+            with open(lock_path + ".dead.log", "a", encoding="utf-8") as f:
+                f.write("khóa hỏng không đọc được (%r) -> ghi đè\n" % e)
+    rec = {"pid": _os.getpid(), "ts": _time.strftime("%Y-%m-%dT%H:%M:%SZ", _time.gmtime()), "cmd": cmd}
+    with open(lock_path, "w", encoding="utf-8") as f:
+        f.write(_json.dumps(rec, ensure_ascii=False) + "\n")
+    return rec, None
+
+
+def release_lock(lock_path):
+    import os as _os
+    try:
+        _os.remove(lock_path)
+    except FileNotFoundError:
+        pass
+
+
 class Http:
     def __init__(self, data_dir, phase, max_req, day_boundary_ts=None):
         self.data_dir = data_dir
@@ -52,20 +111,19 @@ class Http:
                           "note": "biên giới ngày-chạy theo lệnh chủ nhân — ngân sách ~200 đếm từ đây"})
 
     def _count_today(self):
-        today = time.strftime("%Y-%m-%d")
+        """Từ 04/11: trần theo NGÀY DƯƠNG LỊCH Asia/Saigon, cộng dồn mọi tiến trình trong ngày
+        (lệnh chủ nhân 2026-11-03). Dòng sổ có status (đã/đã cố gọi API) mới đếm; DAY_BOUNDARY
+        và SSL_FALLBACK_UNVERIFIED (nhật ký cục bộ) không đếm."""
+        today = saigon_date()
         n = 0
         if os.path.exists(self.ledger_path):
             with open(self.ledger_path, encoding="utf-8") as f:
                 for line in f:
                     try:
                         r = json.loads(line)
-                        if r.get("tag") == "DAY_BOUNDARY":
+                        if r.get("status") is None:
                             continue
-                        ts = r.get("ts", "")
-                        # ngày-chạy: nếu có biên giới phiên mới (lệnh chủ nhân), chỉ đếm từ biên giới
-                        if self.day_boundary_ts and ts < self.day_boundary_ts:
-                            continue
-                        if ts.startswith(today) or self.day_boundary_ts:
+                        if saigon_date(r.get("ts", "")) == today:
                             n += 1
                     except Exception:
                         pass
