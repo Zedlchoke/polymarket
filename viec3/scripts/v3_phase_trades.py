@@ -13,11 +13,12 @@ from viec3_lib import Http, DATA_API, T0, T1, jdump, jlappend
 DATA = sys.argv[1] if len(sys.argv) > 1 else "viec3/data"
 MAX_REQ = int(sys.argv[2]) if len(sys.argv) > 2 else 60
 SAMPLE_N = int(sys.argv[3]) if len(sys.argv) > 3 else 6
+DAY_BOUNDARY = sys.argv[4] if len(sys.argv) > 4 else None
 MAX_PAGES_PER_MARKET = 40   # trần an toàn như probe V2 (chạm trần = ghi rõ CẬN DƯỚI)
 
 LD = os.path.join(DATA, "listing")
 TD = os.path.join(DATA, "trades")
-valid_path = LD + "_slim.jsonl.valid"
+valid_path = os.path.join(LD, "listing_slim.jsonl.valid_FULL")
 recs = []
 with open(valid_path, encoding="utf-8") as f:
     for line in f:
@@ -30,7 +31,7 @@ k = max(1, N // SAMPLE_N)
 sample = [recs[i] for i in range(0, N, k)][:SAMPLE_N]
 print("Tổng hợp lệ=%d | mẫu hệ thống k=%d → %d thị trường" % (N, k, len(sample)))
 
-h = Http(DATA, phase="trades", max_req=MAX_REQ)
+h = Http(DATA, phase="trades", max_req=MAX_REQ, day_boundary_ts=DAY_BOUNDARY)
 summ_path = os.path.join(TD, "sample_summary.jsonl")
 wallets_all = set()
 

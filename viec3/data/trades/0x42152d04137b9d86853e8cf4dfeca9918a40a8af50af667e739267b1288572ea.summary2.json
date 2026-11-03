@@ -1,0 +1,33 @@
+{
+ "conditionId": "0x42152d04137b9d86853e8cf4dfeca9918a40a8af50af667e739267b1288572ea",
+ "fills": 26,
+ "gameStartTime": "2025-10-11 19:30:00+00",
+ "pass_10k": false,
+ "question": "Spread: Western Michigan (-9.5)",
+ "requests": 1,
+ "slug": "cfb-ballst-wmich-2025-10-11-spread-home-9pt5",
+ "sportsMarketType": "spreads",
+ "usd_d1": 9435.91,
+ "wallets": [
+  "0x29420b9837db032b24ab112f5ec7547eb8965c1b",
+  "0x3fbcf67776209f9f4423a20d5d7a643f12169cf6",
+  "0x62365f754d4aa7dc537f997f23bb5dd9a9e36881",
+  "0x6553c5d6b1bc9eab8bebdeee1e54da83a457cf11",
+  "0x6ee89f290638f9412f12b59180d6b0d5d21f1a94",
+  "0x742ff6df87485287bb4db5b0d7fa7af13047d673",
+  "0x7fb7ad0d194d7123e711e7db6c9d418fac14e33d",
+  "0x957f691adbd03039025f06d285a5c3e5384499c8",
+  "0x9abd59b94ffeb4cbfc0809905c0790376221c0ed",
+  "0x9e54d4b157c5ccd12b444be5e1e59386a79710e2",
+  "0xaf385a0ebd6f3b6cbb7eac15af99f56dcd30a59b",
+  "0xc7578a008fb1d9e29f744b4fca352ae62ba7f18c",
+  "0xcf02c5ef0f508aa88a4ed9435c85f50291d14fdc",
+  "0xdc4bc68529c164cfe402ae1215876badc02a5a92",
+  "0xeb1e1dd76fdeda6dfcb07d8604a5b5f39e0888d5",
+  "0xee613b3fc183ee44f9da9c05f53e2da107e3debf",
+  "0xf419556a9758214628edff29dce8f39a8aa13ce7",
+  "0xf80077047ba57d749b7ac8e4303612d89e80f62d"
+ ],
+ "wallets_n": 18,
+ "window_capped": false
+}

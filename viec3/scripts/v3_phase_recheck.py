@@ -9,12 +9,13 @@ from viec3_lib import Http, GAMMA_API, T0, T1, jdump
 
 DATA = sys.argv[1] if len(sys.argv) > 1 else "viec3/data"
 SAMPLE_N = int(sys.argv[2]) if len(sys.argv) > 2 else 8
+DAY_BOUNDARY = sys.argv[3] if len(sys.argv) > 3 else None
 LD = os.path.join(DATA, "listing")
-recs = [json.loads(l) for l in open(LD + "_slim.jsonl.valid", encoding="utf-8")]
+recs = [json.loads(l) for l in open(os.path.join(LD, "listing_slim.jsonl.valid_FULL"), encoding="utf-8")]
 recs.sort(key=lambda r: r.get("conditionId") or "")
 k = max(1, len(recs) // SAMPLE_N)
 sample = [recs[i] for i in range(0, len(recs), k)][:SAMPLE_N]
-h = Http(DATA, phase="recheck", max_req=3)
+h = Http(DATA, phase="recheck", max_req=3, day_boundary_ts=DAY_BOUNDARY)
 
 # 1 request chứa lặp condition_ids cho cả mẫu (đã chứng minh hoạt động với 3 mã; thử 8)
 q = [("closed", "any")]

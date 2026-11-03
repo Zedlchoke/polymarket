@@ -1,0 +1,11 @@
+Sau khi nạp run 1: seen=6679 | buckets={'valid': 1389, 'seasonal': 4063, 'smt_gst_missing': 66, 'missing_gst': 85, 'anomaly': 202, 'non_sports_plain': 874} | extra={'pages': 0, 'rows_returned': 0, 'dup_rows': 1226, 'gst_before_D1': 0, 'gst_after_D1': 0, 'non_sports': 874, 'tag_conflict_sports_politics': 0, 'empty_tags_fallback_gst_in_D1': 0}
+Bắt đầu bisection cửa sổ 2025-09-13 → 2025-12-26 | đã thấy 6679 id (valid=1389)
+LÁT 2025-09-13→2025-12-26: CAP (21 trang) | seen=6679 valid=1389 | req pha=0 (hôm nay 0)
+LÁT 2025-09-13→2025-11-04: CAP (21 trang) | seen=7150 valid=1389 | req pha=0 (hôm nay 0)
+LÁT 2025-11-05→2025-12-26: CAP (21 trang) | seen=7516 valid=1389 | req pha=0 (hôm nay 0)
+LÁT 2025-09-13→2025-10-09: CAP (21 trang) | seen=7960 valid=1389 | req pha=0 (hôm nay 0)
+LÁT 2025-10-10→2025-11-04: CAP (21 trang) | seen=8950 valid=1389 | req pha=0 (hôm nay 0)
+LÁT 2025-11-05→2025-11-30: CAP (21 trang) | seen=8999 valid=1389 | req pha=0 (hôm nay 0)
+LÁT 2025-12-01→2025-12-26: CAP (21 trang) | seen=9832 valid=1389 | req pha=0 (hôm nay 0)
+LÁT 2025-09-13→2025-09-26: CAP (21 trang) | seen=10279 valid=1389 | req pha=0 (hôm nay 0)
+LÁT 2025-09-27→2025-10-09: CAP (21 trang) | seen=11363 valid=1616 | req pha=21 (hôm nay 21)

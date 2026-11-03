@@ -1,0 +1,1 @@
+{"error":"'market' is not a query param on this API: filter by condition id with 'condition' (aliases 'condition_id', 'conditionId')","code":"invalid_request","retryable":false,"trace_id":"63f21ba80fa44dbeb94b0892a2ab8875"}

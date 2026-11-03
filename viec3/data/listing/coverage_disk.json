@@ -1,0 +1,18 @@
+{
+ "coverage_days": 105,
+ "merged": [
+  [
+   "2025-09-13",
+   "2025-12-26"
+  ]
+ ],
+ "unique_ids": 16748,
+ "counts": {
+  "phi_theo_thao": 8814,
+  "HOP_LE_D1": 2743,
+  "mua_vu": 4720,
+  "gst_truoc_D1": 159,
+  "thieu_gst": 166,
+  "gst_sau_D1": 146
+ }
+}

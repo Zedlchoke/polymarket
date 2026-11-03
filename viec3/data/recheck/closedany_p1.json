@@ -1,0 +1,1 @@
+{"type":"validation error","error":"closed=any requires at least one of id, slug, clob_token_ids, position_ids, condition_ids, request_ids, onchain_event_ids, or question_ids"}

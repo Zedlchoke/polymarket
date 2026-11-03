@@ -1,0 +1,49 @@
+{
+ "closed_any_page1_rows": 0,
+ "closed_true_page1_rows": 100,
+ "diffs": [
+  {
+   "cid": "0x002527d0d6b73f8ceb25117b5f8267882dc0421b8479bb96d274549c4aa7b5e6",
+   "question": "Spread: 49ers (-3.5)",
+   "tags_missing_Sports_recheck": []
+  },
+  {
+   "cid": "0x215762d3a8acef8e868326e04dfc531a07b57ed52c59e5df8894c5a1592d3479",
+   "question": "Will Azerbaijan win on 2025-11-13?",
+   "tags_missing_Sports_recheck": []
+  },
+  {
+   "cid": "0x4211c1f8c82e4b9c6bdd62974a3d998715947022f9073db43b5c1b55a896e1b1",
+   "question": "Stars vs. Avalanche",
+   "tags_missing_Sports_recheck": []
+  },
+  {
+   "cid": "0x60f05f2f7b8c87a17429dd7d14b11fc80ce3af796dcb571ddf322db4f382b2eb",
+   "question": "Saints vs. Rams",
+   "tags_missing_Sports_recheck": []
+  },
+  {
+   "cid": "0x80f295ecff5924cc6b732ce52f7936803a93a2040477a993dbc4870101f8ac1d",
+   "question": "Japan Open Tennis Championships: Tomas Machac vs Sho Shimabukuro",
+   "tags_missing_Sports_recheck": []
+  },
+  {
+   "cid": "0x9ee0c28c208bf44c00e4bd1a041716a4c6e2ed0a28bc254f9a8456baacdee2af",
+   "question": "Kraken vs. Islanders",
+   "tags_missing_Sports_recheck": []
+  },
+  {
+   "cid": "0xbe48dca9ed91dcf5d2e176821388fae58b40c15d34714ab477e1fdc9683ae242",
+   "question": "Syracuse vs. Clemson",
+   "tags_missing_Sports_recheck": []
+  },
+  {
+   "cid": "0xdcb60596f330221286f1afdc73d2ae5ff80780a62701e0b842252740e56834c3",
+   "question": "Vanderbilt vs. South Carolina",
+   "tags_missing_Sports_recheck": []
+  }
+ ],
+ "only_in_closed_any": [],
+ "returned": 8,
+ "sample_n": 8
+}

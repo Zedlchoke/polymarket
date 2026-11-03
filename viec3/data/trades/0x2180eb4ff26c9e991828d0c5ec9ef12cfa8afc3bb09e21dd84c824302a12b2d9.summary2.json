@@ -1,0 +1,30 @@
+{
+ "conditionId": "0x2180eb4ff26c9e991828d0c5ec9ef12cfa8afc3bb09e21dd84c824302a12b2d9",
+ "fills": 30,
+ "gameStartTime": "2025-09-27 16:00:00+00",
+ "pass_10k": false,
+ "question": "O/U 59.5",
+ "requests": 1,
+ "slug": "cfb-usc-ill-2025-09-27-total-59pt5",
+ "sportsMarketType": "totals",
+ "usd_d1": 1514.28,
+ "wallets": [
+  "0x0543ee67f2611abdc1ceb327b3591749852da6a5",
+  "0x1498e005385afab4d6678863bad72afdf8bda10b",
+  "0x398900e95487c704ac3b52fd653e1697d32227b1",
+  "0x51373c6b56e4a38bf97c301efbff840fc8451556",
+  "0x5d03aa8695276ed6f7d5ca10dc07d2a2d062369a",
+  "0x5ee1c416fbe1c3e6a8bc51b74dd816c43276e116",
+  "0x6e4152a11a0f0f32ec4a7f558ce3825f97f06fae",
+  "0x89266bcb35fb9162313241ff9b996f7430485aac",
+  "0x957f691adbd03039025f06d285a5c3e5384499c8",
+  "0x9e93248586b16c2de8aa8ea4338ae34d36bca140",
+  "0xaa89e434132b0199049e53d30098b087aad36cb6",
+  "0xaef5d0546ab2522265e1939fd8cc03d1c0eba454",
+  "0xb118bae4f89565787d5d440e9585d89b9219947e",
+  "0xdf2e12c6a53671d0b08f29d0391728097029ddec",
+  "0xe6110dc3cdc3fbc00bcb689d8df11ede4c470ae4"
+ ],
+ "wallets_n": 15,
+ "window_capped": false
+}

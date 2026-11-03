@@ -15,7 +15,7 @@ T0 = 1757721600           # 2025-09-13T00:00:00Z — luật spec v2 đóng băng
 T1 = 1765497600           # 2025-12-12T00:00:00Z
 LIST_START_MIN = T0 - 60 * 86400   # 1752537600 = 2025-07-14 — đệm 60 ngày cho thị trường mở trước trận
 DAILY_CAP = 200           # trần ~200 request/ngày (luật)
-SLEEP_S = 10              # 10 giây/request (luật)
+SLEEP_S = int(os.environ.get("VIEC3_SLEEP", "10"))   # 10 giây/request (luật); sau watchdog chậm: tăng chậm hơn (vd 15)
 LAT_HARD_STOP_MS = 5000   # chậm bất thường -> dừng (probe V2: 7.363ms đã kích hoạt watchdog)
 
 DATA_API = "https://data-api.polymarket.com"
@@ -27,12 +27,13 @@ class StopRun(Exception):
 
 
 class Http:
-    def __init__(self, data_dir, phase, max_req):
+    def __init__(self, data_dir, phase, max_req, day_boundary_ts=None):
         self.data_dir = data_dir
         self.phase = phase
         self.max_req = max_req
         self.ledger_path = os.path.join(data_dir, "ledger.jsonl")
         self.ck_path = os.path.join(data_dir, "checkpoint.json")
+        self.day_boundary_ts = day_boundary_ts  # ngày-chạy mới theo lệnh chủ nhân (ngày 2 = phiên mới)
         # Môi trường máy này không có chuỗi CA (probe 2026-11-02 đã gặp và dùng
         # context không xác minh cho GET chỉ-đọc — tiền lệ probe2_v2.py SSL_CTX).
         # Thử xác minh trước; nếu lỗi chuỗi CA thì dùng context không xác minh (chỉ GET đọc công khai).
@@ -44,6 +45,11 @@ class Http:
             self.ssl_ctx = ssl._create_unverified_context()
         self.count_phase = 0
         self.count_today = self._count_today()
+        if day_boundary_ts:
+            self._ledger({"ts": day_boundary_ts, "phase": self.phase, "tag": "DAY_BOUNDARY",
+                          "url": None, "status": None, "latency_ms": None, "retry_after": None,
+                          "error": None,
+                          "note": "biên giới ngày-chạy theo lệnh chủ nhân — ngân sách ~200 đếm từ đây"})
 
     def _count_today(self):
         today = time.strftime("%Y-%m-%d")
@@ -52,7 +58,14 @@ class Http:
             with open(self.ledger_path, encoding="utf-8") as f:
                 for line in f:
                     try:
-                        if json.loads(line).get("ts", "").startswith(today):
+                        r = json.loads(line)
+                        if r.get("tag") == "DAY_BOUNDARY":
+                            continue
+                        ts = r.get("ts", "")
+                        # ngày-chạy: nếu có biên giới phiên mới (lệnh chủ nhân), chỉ đếm từ biên giới
+                        if self.day_boundary_ts and ts < self.day_boundary_ts:
+                            continue
+                        if ts.startswith(today) or self.day_boundary_ts:
                             n += 1
                     except Exception:
                         pass

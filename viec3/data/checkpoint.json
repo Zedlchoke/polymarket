@@ -1,16 +1,10 @@
 {
- "ts": "2026-11-03T04:12:46Z",
- "phase": "list2",
- "phase_requests": 125,
- "today_requests": 191,
- "today_remaining": 9,
- "step": "list2",
- "slice": [
-  "2025-09-13",
-  "2025-09-26"
- ],
- "offset": 1800,
- "seen": 9087,
- "valid": 848,
- "requests_phase": 125
+ "ts": "2026-11-03T07:31:24Z",
+ "phase": "trades2",
+ "phase_requests": 8,
+ "today_requests": 186,
+ "today_remaining": 14,
+ "step": "trades2_DONE_or_PAUSED",
+ "wallets_union": 236,
+ "sample_done": 8
 }

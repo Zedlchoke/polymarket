@@ -12,6 +12,7 @@ from viec3_lib import Http, StopRun, GAMMA_API, T0, T1, jdump
 
 DATA = sys.argv[1] if len(sys.argv) > 1 else "viec3/data"
 MAX_REQ = int(sys.argv[2]) if len(sys.argv) > 2 else 150
+DAY_BOUNDARY = sys.argv[3] if len(sys.argv) > 3 else None   # ISO-ts: bắt đầu ngày-chạy mới (lệnh chủ nhân)
 WIN_MIN, WIN_MAX = "2025-09-13", "2025-12-26"   # T0 … T1+14 ngày (đệm chốt trễ)
 CAP_ROWS = 2100                                   # 21 trang x 100 — ngưỡng nghi cụt (đo được)
 LD = os.path.join(DATA, "listing")
@@ -62,7 +63,7 @@ extra_counts = {"pages": 0, "rows_returned": 0, "dup_rows": 0,
                 "empty_tags_fallback_gst_in_D1": 0}
 # đếm phụ theo bucket ghi sẵn (run trước không lưu hết các nhánh này vào slim) — tính lại từ pages sau
 
-h = Http(DATA, phase="list2", max_req=MAX_REQ)
+h = Http(DATA, phase="list2", max_req=MAX_REQ, day_boundary_ts=DAY_BOUNDARY)
 
 
 def classify(r):
@@ -141,8 +142,25 @@ def page_path(d, offset):
     return os.path.join(d, "page_%07d.json.gz" % offset)
 
 def fetch_slice(dmin, dmax):
-    """Trả (status, n_pages): 'DONE' | 'CAP' | 'EMPTY'. Phân trang với cache + dedupe."""
+    """Trả (status, n_pages): 'DONE' | 'CAP' | 'EMPTY'. Phân trang với cache + dedupe.
+    Lát MỚI (chưa có trang 0 trong cache): dò offset 2000 trước — nếu trả đủ 100 dòng
+    thì lát ≥ 2.100 dòng (sẽ cụt ở offset 2100) → CAP ngay, không fetch 20 trang giữa."""
     d = slice_dir(dmin, dmax)
+    probe = page_path(d, 2000)
+    if not os.path.exists(page_path(d, 0)) and not os.path.exists(probe):
+        doc, st = h.get(GAMMA_API + "/markets?" + urllib.parse.urlencode(
+            {"closed": "true", "include_tag": "true", "end_date_min": dmin, "end_date_max": dmax,
+             "order": "id", "ascending": "true", "limit": "100", "offset": "2000"}),
+            "l2probe_%s_%s" % (dmin, dmax))
+        rows_probe = doc if isinstance(doc, list) else []
+        with gzip.open(probe + ".tmp", "wt", encoding="utf-8") as f:
+            json.dump(rows_probe, f, ensure_ascii=False)
+        os.replace(probe + ".tmp", probe)
+        extra_counts["pages"] += 1
+        extra_counts["rows_returned"] += len(rows_probe)
+        if len(rows_probe) == 100:
+            return "CAP", 21   # ≥2.100 dòng: chia đôi luôn, con sẽ tự fetch
+        process_rows(rows_probe)  # <100 dòng ở offset 2000 → toàn bộ <2.100, chạy vòng phân trang thường
     offset, full_pages = 0, 0
     while True:
         pp = page_path(d, offset)
