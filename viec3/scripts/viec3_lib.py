@@ -121,7 +121,10 @@ class Http:
                 for line in f:
                     try:
                         r = json.loads(line)
-                        if r.get("status") is None:
+                        # request THẬT = có status VÀ có latency (đo bởi Http.get).
+                        # Dòng ghi tay E_market_body (status=400, latency=None, không tới server)
+                        # KHÔNG đếm — theo lệnh chủ nhân 03/11: mốc là 358, không phải 359.
+                        if r.get("status") is None or r.get("latency_ms") is None:
                             continue
                         if saigon_date(r.get("ts", "")) == today:
                             n += 1

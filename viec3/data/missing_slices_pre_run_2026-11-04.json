@@ -1,0 +1,399 @@
+{
+ "ngay_tao": "2026-11-03 (tối, trước wrapper 00:05 04/11)",
+ "api_requests_dung": 0,
+ "luat_hoan_tat": "NATURAL = trang ngắn <100 hoặc rỗng ở offset <2100; rỗng ở >=2100 hoặc chuỗi đầy tới 2000 = CAP; probe-only = CAP",
+ "cay": {
+  "tong_node": 41,
+  "tong_leaf_viec_can_lam": 19
+ },
+ "leaves_viec_can_lam": [
+  {
+   "slice": [
+    "2025-10-17",
+    "2025-10-22"
+   ],
+   "parent": [
+    "2025-10-10",
+    "2025-10-22"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-10-23",
+    "2025-10-29"
+   ],
+   "parent": [
+    "2025-10-23",
+    "2025-11-04"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-10-30",
+    "2025-11-04"
+   ],
+   "parent": [
+    "2025-10-23",
+    "2025-11-04"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-11-05",
+    "2025-11-11"
+   ],
+   "parent": [
+    "2025-11-05",
+    "2025-11-17"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-11-12",
+    "2025-11-17"
+   ],
+   "parent": [
+    "2025-11-05",
+    "2025-11-17"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-11-18",
+    "2025-11-24"
+   ],
+   "parent": [
+    "2025-11-18",
+    "2025-11-30"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-11-25",
+    "2025-11-30"
+   ],
+   "parent": [
+    "2025-11-18",
+    "2025-11-30"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-12-01",
+    "2025-12-07"
+   ],
+   "parent": [
+    "2025-12-01",
+    "2025-12-13"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-12-08",
+    "2025-12-13"
+   ],
+   "parent": [
+    "2025-12-01",
+    "2025-12-13"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-12-14",
+    "2025-12-20"
+   ],
+   "parent": [
+    "2025-12-14",
+    "2025-12-26"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-12-21",
+    "2025-12-26"
+   ],
+   "parent": [
+    "2025-12-14",
+    "2025-12-26"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-09-13",
+    "2025-09-16"
+   ],
+   "parent": [
+    "2025-09-13",
+    "2025-09-19"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-09-17",
+    "2025-09-19"
+   ],
+   "parent": [
+    "2025-09-13",
+    "2025-09-19"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-09-20",
+    "2025-09-23"
+   ],
+   "parent": [
+    "2025-09-20",
+    "2025-09-26"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-09-24",
+    "2025-09-26"
+   ],
+   "parent": [
+    "2025-09-20",
+    "2025-09-26"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-09-27",
+    "2025-09-30"
+   ],
+   "parent": [
+    "2025-09-27",
+    "2025-10-03"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-10-04",
+    "2025-10-06"
+   ],
+   "parent": [
+    "2025-10-04",
+    "2025-10-09"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-10-10",
+    "2025-10-13"
+   ],
+   "parent": [
+    "2025-10-10",
+    "2025-10-16"
+   ],
+   "status": "CAP",
+   "evidence": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "pages_cached": 1
+  },
+  {
+   "slice": [
+    "2025-10-14",
+    "2025-10-16"
+   ],
+   "parent": [
+    "2025-10-10",
+    "2025-10-16"
+   ],
+   "status": "PARTIAL",
+   "evidence": "chuỗi dừng ở offset 400, chưa có trang chốt",
+   "pages_cached": 5
+  }
+ ],
+ "thong_ke_dia": {
+  "probe_only_tong": 28,
+  "probe_only_khong_dir_con": 18,
+  "probe_only_co_dir_con": 10,
+  "natural": 2,
+  "cap_khong_dir_con": 18
+ },
+ "doi_chieu_kiem_toan": [
+  {
+   "kiem_toan": "queue-6",
+   "slice": [
+    "2025-10-10",
+    "2025-10-22"
+   ],
+   "trang_thai_toi": "PARTIAL",
+   "bang_chung": "chuỗi dừng ở offset 1700, chưa có trang chốt",
+   "la_leaf_viec_can_lam": false,
+   "children_on_disk": [
+    [
+     "2025-10-10",
+     "2025-10-16"
+    ],
+    [
+     "2025-10-17",
+     "2025-10-22"
+    ]
+   ]
+  },
+  {
+   "kiem_toan": "queue-6",
+   "slice": [
+    "2025-10-23",
+    "2025-11-04"
+   ],
+   "trang_thai_toi": "CAP",
+   "bang_chung": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "la_leaf_viec_can_lam": false,
+   "children_on_disk": [
+    [
+     "2025-10-23",
+     "2025-10-29"
+    ],
+    [
+     "2025-10-30",
+     "2025-11-04"
+    ]
+   ]
+  },
+  {
+   "kiem_toan": "queue-6",
+   "slice": [
+    "2025-11-05",
+    "2025-11-17"
+   ],
+   "trang_thai_toi": "CAP",
+   "bang_chung": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "la_leaf_viec_can_lam": false,
+   "children_on_disk": [
+    [
+     "2025-11-05",
+     "2025-11-11"
+    ],
+    [
+     "2025-11-12",
+     "2025-11-17"
+    ]
+   ]
+  },
+  {
+   "kiem_toan": "queue-6",
+   "slice": [
+    "2025-11-18",
+    "2025-11-30"
+   ],
+   "trang_thai_toi": "CAP",
+   "bang_chung": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "la_leaf_viec_can_lam": false,
+   "children_on_disk": [
+    [
+     "2025-11-18",
+     "2025-11-24"
+    ],
+    [
+     "2025-11-25",
+     "2025-11-30"
+    ]
+   ]
+  },
+  {
+   "kiem_toan": "queue-6",
+   "slice": [
+    "2025-12-01",
+    "2025-12-13"
+   ],
+   "trang_thai_toi": "CAP",
+   "bang_chung": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "la_leaf_viec_can_lam": false,
+   "children_on_disk": [
+    [
+     "2025-12-01",
+     "2025-12-07"
+    ],
+    [
+     "2025-12-08",
+     "2025-12-13"
+    ]
+   ]
+  },
+  {
+   "kiem_toan": "queue-6",
+   "slice": [
+    "2025-12-14",
+    "2025-12-26"
+   ],
+   "trang_thai_toi": "CAP",
+   "bang_chung": "dò offset 2000 trả đủ 100 dòng (cache) → ≥2.100 dòng thật",
+   "la_leaf_viec_can_lam": false,
+   "children_on_disk": [
+    [
+     "2025-12-14",
+     "2025-12-20"
+    ],
+    [
+     "2025-12-21",
+     "2025-12-26"
+    ]
+   ]
+  },
+  {
+   "kiem_toan": "lát dở",
+   "slice": [
+    "2025-10-14",
+    "2025-10-16"
+   ],
+   "trang_thai_toi": "PARTIAL",
+   "bang_chung": "chuỗi dừng ở offset 400, chưa có trang chốt",
+   "la_leaf_viec_can_lam": true
+  }
+ ],
+ "giai_thich_queue9_vs_queue6": "Queue-6 (kiểm toán, từ slices_progress.json run cuối ngày 2) và queue-9 (dry-run a74a382, slices3_progress.json) là HAI ẢNH CHỤP BFS ở hai thời điểm khác nhau của cùng cây việc. Queue-9 gồm: 5/6 lát queue của kiểm toán (10-23→11-04, 11-05→11-17, 11-18→11-30, 12-01→12-13, 12-14→12-26 — bị pop rồi phán quyết CAP từ cache probe rồi re-enqueue con) + 4 lát con MỚI sinh do dry-run chia tiếp 2 nhánh [09-13→09-26] và [09-27→10-09] mà run cũ chưa từng tới (09-13→09-19, 09-20→09-26, 09-27→10-03, 10-04→10-09). Lát thứ 6 của kiểm toán (10-10→10-22) là lát ĐANG XỬ LÝ lúc dry-run dừng nên không xuất hiện trong file queue — vô hại vì cây dựng lại từ đĩa luôn nhận ra nó là PARTIAL (18 trang, chưa có trang chốt). Không nhánh nào bị mất.",
+ "bo_dem_tran": "Bộ đếm trần (viec3_lib._count_today, đã sửa tối 03/11): đếm dòng sổ CÓ status VÀ CÓ latency_ms (= request thật chạm server). Ngày 03/11: 358 (loại đúng 1 dòng ghi tay E_market_body có status 400 nhưng latency=None, không tới server). Trước sửa chỉ đếm status → 359; đã sửa tại _count_today, thêm điều kiện latency_ms is None → bỏ qua."
+}
