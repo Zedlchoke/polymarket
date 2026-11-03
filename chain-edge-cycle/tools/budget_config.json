@@ -1,0 +1,12 @@
+{
+  "_ghi_chu": "Trần đề xuất ban đầu (2026-11-02). Chỉ được GIẢM trong lúc wave đang chạy; muốn TĂNG phải đợi wave mới và ghi lý do vào 00_CHARTER.md (mục Nhật ký thay đổi ngân sách). min_interval_sec = nghỉ tối thiểu giữa 2 request cùng API.",
+  "geckoterminal": {"base_url": "https://api.geckoterminal.com/api/v2", "min_interval_sec": 10, "daily_cap": 1200},
+  "dexscreener": {"base_url": "https://api.dexscreener.com", "min_interval_sec": 1.5, "daily_cap": 3000},
+  "solana_rpc": {"base_url": "https://api.mainnet-beta.solana.com", "min_interval_sec": 12, "daily_cap": 150},
+  "base_rpc": {"base_url": "https://mainnet.base.org", "min_interval_sec": 25, "daily_cap": 150},
+  "base_pubnode": {"base_url": "https://base-rpc.publicnode.com", "min_interval_sec": 15, "daily_cap": 400, "user_agent": "curl/8.7.1", "_ghi_chu": "thêm 2026-11-02 chặng 1: mainnet.base.org 429 ngay cả getLogs 1k sau 3 call metadata; publicnode chặn UA python-urllib nhưng cho UA curl chuẩn — nguồn độc lập, trần riêng, không tăng tốc"},
+  "base_meow": {"base_url": "https://base.meowrpc.com", "min_interval_sec": 15, "daily_cap": 400, "user_agent": "curl/8.7.1", "_ghi_chu": "thêm 2026-11-02 chặng 1, như trên"},
+  "arbitrum_rpc": {"base_url": "https://arb1.arbitrum.io/rpc", "min_interval_sec": 12, "daily_cap": 150},
+  "bsc_rpc": {"base_url": "https://bsc-dataseed.binance.org", "min_interval_sec": 12, "daily_cap": 150},
+  "eth_rpc": {"base_url": "https://eth.llamarpc.com", "min_interval_sec": 20, "daily_cap": 80}
+}

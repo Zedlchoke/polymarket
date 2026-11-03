@@ -1,0 +1,17 @@
+{
+ "1_day_limit10": {
+  "status": 200,
+  "n_candles": 0,
+  "oldest_ts": null
+ },
+ "2_hour_limit10": {
+  "status": 200,
+  "n_candles": 0,
+  "oldest_ts": null
+ },
+ "4_day_limit100": {
+  "status": 200,
+  "n_candles": 0,
+  "oldest_ts": null
+ }
+}

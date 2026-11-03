@@ -1,0 +1,1 @@
+LUU Y: vol token quy ước 18 decimals cho mọi token — báo cáo mô tả chỉ dùng ĐẾM LỆNH (không phụ thuộc decimals), volume thô để tham khảo.

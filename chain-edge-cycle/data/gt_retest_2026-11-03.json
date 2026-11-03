@@ -1,0 +1,26 @@
+{
+ "ran_at": "2026-11-03T00:01:39+00:00",
+ "calls": [
+  {
+   "label": "day_limit10",
+   "query": "networks/eth/pools/0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640/ohlcv/day?limit=10",
+   "status": 200,
+   "n_candles": 0,
+   "oldest": null
+  },
+  {
+   "label": "hour_limit10",
+   "query": "networks/eth/pools/0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640/ohlcv/hour?limit=10",
+   "status": 200,
+   "n_candles": 0,
+   "oldest": null
+  },
+  {
+   "label": "day_limit100",
+   "query": "networks/eth/pools/0x88e6a0c2ddd26feeb64f039a2c41296fcb3f5640/ohlcv/day?limit=100",
+   "status": 200,
+   "n_candles": 0,
+   "oldest": null
+  }
+ ]
+}
