@@ -225,25 +225,45 @@ try:
         a, b, parent = queue.popleft()
         (st, off), offs = slice_status(a, b)
         if st == "PARTIAL":
-            # đi tiếp chuỗi từ offset đang có (cache-aware)
-            o = 0
-            while True:
-                rows, cached = fetch_page(a, b, o)
+            # DÒ-TRƯỚC (khôi phục tối ưu của list2, bỏ sót ngày 04-05/11): lát CHƯA có page_0
+            # -> dò 1 request ở offset 2000; nếu đủ 100 dòng thì lát ≥2.100 dòng = CỤT ngay,
+            # không đi 21 trang giữa (con sẽ tự lấy). Nếu <100 dòng → đi chuỗi bình thường.
+            offs0 = {}
+            import glob as _g0
+            for base in (SL, OLD_SL):
+                for pg in _g0.glob(os.path.join(base, "%s_%s" % (a, b), "page_*.json.gz")):
+                    off0 = int(os.path.basename(pg)[5:12])
+                    offs0[off0] = True
+            if 0 not in offs0 and 2000 not in offs0:
+                rows_probe, _ = fetch_page(a, b, 2000)
                 extra["pages"] += 1
-                extra["rows_returned"] += len(rows)
-                process_rows(rows)
-                h.checkpoint(step="list3", slice=[a, b], offset=o + len(rows), seen=len(seen),
+                extra["rows_returned"] += len(rows_probe)
+                process_rows(rows_probe)
+                h.checkpoint(step="list3_probe", slice=[a, b], seen=len(seen),
                              valid=counts.get("valid", 0), req_phase=h.count_phase)
-                if len(rows) == 0:
-                    st = "NATURAL" if o < 2100 else "CAP"
-                    break
-                if len(rows) < 100:
-                    st = "NATURAL" if o < 2100 else "CAP"
-                    break
-                o += 100
-                if o > 2100:
+                if len(rows_probe) == 100:
                     st = "CAP"
-                    break
+                    tree.append({"slice": [a, b], "parent": parent, "status": "CAP_probe"})
+            if st == "PARTIAL":
+                # đi tiếp chuỗi từ offset đang có (cache-aware)
+                o = 0
+                while True:
+                    rows, cached = fetch_page(a, b, o)
+                    extra["pages"] += 1
+                    extra["rows_returned"] += len(rows)
+                    process_rows(rows)
+                    h.checkpoint(step="list3", slice=[a, b], offset=o + len(rows), seen=len(seen),
+                                 valid=counts.get("valid", 0), req_phase=h.count_phase)
+                    if len(rows) == 0:
+                        st = "NATURAL" if o < 2100 else "CAP"
+                        break
+                    if len(rows) < 100:
+                        st = "NATURAL" if o < 2100 else "CAP"
+                        break
+                    o += 100
+                    if o > 2100:
+                        st = "CAP"
+                        break
         if st == "NATURAL":
             tree.append({"slice": [a, b], "parent": parent, "status": "NATURAL"})
             print("LÁT %s→%s: NATURAL | seen=%d valid=%d | req pha=%d (ngày %s: %d)" %
