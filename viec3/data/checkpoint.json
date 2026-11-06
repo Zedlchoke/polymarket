@@ -1,16 +1,16 @@
 {
- "ts": "2026-11-05T17:50:03Z",
+ "ts": "2026-11-06T02:59:06Z",
  "phase": "list3",
- "phase_requests": 68,
- "today_requests": 110,
- "today_remaining": 90,
+ "phase_requests": 2,
+ "today_requests": 171,
+ "today_remaining": 29,
  "step": "list3",
  "slice": [
-  "2025-09-27",
-  "2025-09-28"
+  "2025-10-12",
+  "2025-10-13"
  ],
- "offset": 700,
- "seen": 30064,
- "valid": 409,
- "req_phase": 68
+ "offset": 900,
+ "seen": 27196,
+ "valid": 47,
+ "req_phase": 2
 }

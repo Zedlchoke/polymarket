@@ -1,0 +1,30 @@
+=== PREFLIGHT CHẠY TIẾP 89 REQUEST NGÀY 06/11 — 2026-11-06 09:33:07 +0700 ===
+HASH SPEC: KHỚP ae504a97…bee55d8
+  Dò-trước điểm 1 (chỉ phán CAP rồi chia tiếp, không lấy 21 trang): ĐẠT
+  Dò-trước điểm 2 (không dùng dò để kết luận xong; luật hoàn tất nguyên bản): ĐẠT
+KHÓA: sạch
+SỔ NGÀY 06/11 trước khi chạy tiếp: 111 request thật (kỳ vọng đúng 111)
+NHỊP PHẦN CHẠY TIẾP: 20 giây/request — WATCHDOG LẠI SẼ DỪNG NGAY, KHÔNG RETRY HÔM NAY
+=== HẾT PREFLIGHT — BẮT ĐẦU CHẠY TIẾP (tối đa 89 request) ===
+Hash spec khớp luật: ae504a97feb50204 …
+Bắt đầu sửa liệt kê — cây từ gốc 2025-09-13→2025-12-26, đã thấy 25358 id
+LÁT 2025-10-01→2025-10-03: NATURAL | seen=25358 valid=0 | req pha=0 (ngày 2026-11-06: 111)
+LÁT 2025-10-07→2025-10-09: NATURAL | seen=25358 valid=0 | req pha=0 (ngày 2026-11-06: 111)
+LÁT 2025-10-14→2025-10-16: NATURAL | seen=25358 valid=0 | req pha=0 (ngày 2026-11-06: 111)
+LÁT 2025-10-17→2025-10-19: NATURAL | seen=25358 valid=0 | req pha=0 (ngày 2026-11-06: 111)
+LÁT 2025-10-20→2025-10-22: NATURAL | seen=25358 valid=0 | req pha=0 (ngày 2026-11-06: 111)
+LÁT 2025-10-27→2025-10-29: NATURAL | seen=25358 valid=0 | req pha=0 (ngày 2026-11-06: 111)
+LÁT 2025-09-13→2025-09-14: NATURAL | seen=25358 valid=0 | req pha=0 (ngày 2026-11-06: 111)
+LÁT 2025-09-15→2025-09-16: NATURAL | seen=25358 valid=0 | req pha=0 (ngày 2026-11-06: 111)
+LÁT 2025-09-17→2025-09-18: NATURAL | seen=25358 valid=0 | req pha=0 (ngày 2026-11-06: 111)
+LÁT 2025-09-19→2025-09-19: NATURAL | seen=25358 valid=0 | req pha=0 (ngày 2026-11-06: 111)
+LÁT 2025-09-20→2025-09-21: NATURAL | seen=25358 valid=0 | req pha=0 (ngày 2026-11-06: 111)
+LÁT 2025-09-22→2025-09-23: NATURAL | seen=25358 valid=0 | req pha=0 (ngày 2026-11-06: 111)
+LÁT 2025-09-24→2025-09-25: NATURAL | seen=25358 valid=0 | req pha=0 (ngày 2026-11-06: 111)
+LÁT 2025-09-26→2025-09-26: NATURAL | seen=25358 valid=0 | req pha=0 (ngày 2026-11-06: 111)
+LÁT 2025-09-27→2025-09-28: NATURAL | seen=26459 valid=34 | req pha=9 (ngày 2026-11-06: 120)
+LÁT 2025-09-29→2025-09-30: NATURAL | seen=27280 valid=54 | req pha=23 (ngày 2026-11-06: 134)
+LÁT 2025-10-04→2025-10-05: NATURAL | seen=28457 valid=349 | req pha=37 (ngày 2026-11-06: 148)
+LÁT 2025-10-06→2025-10-06: NATURAL | seen=28457 valid=349 | req pha=39 (ngày 2026-11-06: 150)
+LÁT 2025-10-10→2025-10-11: NATURAL | seen=29233 valid=398 | req pha=50 (ngày 2026-11-06: 161)
+DỪNG THEO LUẬT: LỖI MẠNG/HTTP None (URLError(gaierror(8, 'nodename nor servname provided, or not known'))) — dừng, không retry ngay — tiến độ lưu, chạy lại để tiếp tục (cache giữ nguyên)
