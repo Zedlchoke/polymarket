@@ -1,22 +1,22 @@
 {
  "complete": false,
- "rows_total_pages": 76662,
- "unique_ids": 57055,
+ "rows_total_pages": 93621,
+ "unique_ids": 63712,
  "counts": {
-  "mua_vu": 8562,
-  "phi_theo_thao": 31360,
-  "HOP_LE": 15428,
-  "phi_theo_thao_anomaly_co_smt": 726,
-  "thieu_gst": 211,
+  "HOP_LE": 16840,
+  "phi_theo_thao": 35582,
+  "mua_vu": 9316,
+  "phi_theo_thao_anomaly_co_smt": 978,
+  "thieu_gst": 228,
   "gst_sau_D1": 609,
   "gst_truoc_D1": 159
  },
  "valid_theo_thang": {
-  "2025-09": 1255,
-  "2025-10": 3299,
-  "2025-11": 8385,
+  "2025-09": 1346,
+  "2025-10": 4128,
+  "2025-11": 8877,
   "2025-12": 2489
  },
- "n_valid": 15428,
- "ghi_chu": "VẪN LÀ CẬN DƯỚI — còn cửa sổ chưa kết thúc tự nhiên: 3371 (xem coverage_fixed.json)"
+ "n_valid": 16840,
+ "ghi_chu": "VẪN LÀ CẬN DƯỚI — còn cửa sổ chưa kết thúc tự nhiên: 2008 (xem coverage_fixed.json)"
 }

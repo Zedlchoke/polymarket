@@ -1,0 +1,49 @@
+=== PREFLIGHT NGÀY 08/11 (GO 'ngày 7 ngày 8' đến ngày 08/11 — ngày 07 đã trôi qua 0 request) — 14:07:16 +0700 ===
+KIỂM TRA DÒ-TRƯỚC (theo lệnh chủ nhân, 2 điểm bắt buộc):
+  Điểm 1 — dò = 1 request @offset 2000; đủ 100 dòng => phán CAP rồi chia tiếp, KHÔNG lấy 21 trang: ĐẠT
+  Điểm 2 — dò-trước KHÔNG được dùng để kết luận lát đã xong (không nhánh NATURAL trong đoạn dò; luật hoàn tất nguyên bản: tự nhiên = trang ngắn <100 hoặc rỗng ở offset <2100; rỗng ở >=2100 = CỤT): ĐẠT
+KHÓA: sạch
+SỔ NGÀY 06/11 trước khi chạy: 172 request thật
+=== HẾT PREFLIGHT — BẮT ĐẦU CHẠY THEO GO ===
+SỔ NGÀY 08/11 trước chạy: 137 (kỳ vọng 0)
+NHỊP: 10 giây chuẩn; watchdog → cooldown 17 phút → 1 retry 15 giây (GO gốc)
+Hash spec khớp luật: ae504a97feb50204 …
+Bắt đầu sửa liệt kê — cây từ gốc 2025-09-13→2025-12-26, đã thấy 27864 id
+LÁT 2025-10-01→2025-10-03: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-10-07→2025-10-09: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-10-14→2025-10-16: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-10-17→2025-10-19: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-10-20→2025-10-22: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-10-27→2025-10-29: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-09-13→2025-09-14: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-09-15→2025-09-16: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-09-17→2025-09-18: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-09-19→2025-09-19: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-09-20→2025-09-21: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-09-22→2025-09-23: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-09-24→2025-09-25: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-09-26→2025-09-26: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-09-27→2025-09-28: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-09-29→2025-09-30: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-10-04→2025-10-05: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-10-06→2025-10-06: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-10-10→2025-10-11: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-10-12→2025-10-13: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-10-23→2025-10-24: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-10-25→2025-10-26: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-10-30→2025-10-31: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-11-01→2025-11-01: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-11-02→2025-11-03: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-11-04→2025-11-04: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-11-05→2025-11-06: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-11-07→2025-11-08: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-11-09→2025-11-10: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-11-11→2025-11-11: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-11-12→2025-11-13: NATURAL | seen=27864 valid=0 | req pha=0 (ngày 2026-11-08: 137)
+LÁT 2025-11-14→2025-11-14: NATURAL | seen=27864 valid=0 | req pha=2 (ngày 2026-11-08: 139)
+LÁT 2025-11-17→2025-11-17: NATURAL | seen=27964 valid=100 | req pha=5 (ngày 2026-11-08: 142)
+LÁT 2025-11-18→2025-11-19: NATURAL | seen=28826 valid=142 | req pha=20 (ngày 2026-11-08: 157)
+LÁT 2025-11-20→2025-11-21: NATURAL | seen=30063 valid=433 | req pha=36 (ngày 2026-11-08: 173)
+LÁT 2025-11-22→2025-11-23: NATURAL | seen=31230 valid=965 | req pha=57 (ngày 2026-11-08: 194)
+LÁT 2025-11-24→2025-11-24: NATURAL | seen=31230 valid=965 | req pha=59 (ngày 2026-11-08: 196)
+DỪNG THEO LUẬT: TRẦN NGÂN SÁCH NGÀY ~200 REQUEST — dừng theo luật — tiến độ lưu, chạy lại để tiếp tục (cache giữ nguyên)
