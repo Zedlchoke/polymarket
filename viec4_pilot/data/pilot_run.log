@@ -1,0 +1,6 @@
+Tập ≥100k (mô tả, chọn mẫu): 2321 thị trường → pilot 100 đầu theo id
+DỪNG THEO LUẬT: RESPONSE CHẬM BẤT THƯỜNG 7290 ms (> 5000 ms) — dừng toàn bộ theo luật — pilot đo được 0/100 thị trường
+PILOT XONG PHẦN NGÂN SÁCH: đo 0/100 | ví hợp nhất: 0 | request pha=11 (ngày 11)
+Tập ≥100k (mô tả, chọn mẫu): 2321 thị trường → pilot 100 đầu theo id
+DỪNG THEO LUẬT: TRẦN NGÂN SÁCH NGÀY ~200 REQUEST — dừng theo luật — pilot đo được 0/100 thị trường
+PILOT XONG PHẦN NGÂN SÁCH: đo 0/100 | ví hợp nhất: 0 | request pha=189 (ngày 200)

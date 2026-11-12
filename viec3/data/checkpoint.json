@@ -1,22 +1,10 @@
 {
- "ts": "2026-11-08T17:45:10Z",
- "phase": "list3",
- "phase_requests": 175,
- "today_requests": 175,
- "today_remaining": 25,
- "step": "list3_PAUSED",
- "final": {
-  "window": [
-   "2025-09-13",
-   "2025-12-26"
-  ],
-  "complete": false,
-  "total_slices": 129,
-  "natural": 63,
-  "unresolved": [],
-  "requests_phase": 175,
-  "requests_day": 175,
-  "day_saigon": "2026-11-09",
-  "note": "LUẬT MỚI: rỗng ở offset>=2100 = CỤT (lỗi cũ đã sửa); tự nhiên = ngắn <100 hoặc rỗng ở <2100"
- }
+ "ts": "2026-11-12T05:40:45Z",
+ "phase": "pilot4",
+ "phase_requests": 189,
+ "today_requests": 200,
+ "today_remaining": 0,
+ "step": "pilot4_DONE_or_PAUSED",
+ "measured": 0,
+ "wallets": 0
 }

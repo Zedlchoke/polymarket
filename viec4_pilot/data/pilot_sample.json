@@ -1,0 +1,706 @@
+{
+ "n_pilot": 100,
+ "n_pool_ge100k": 2321,
+ "sample": [
+  {
+   "conditionId": "0x4e557959c5f78255856b860a97a3e72b34a263ffceced545dc2f98a206ebe61f",
+   "id": "589789",
+   "question": "Browns vs. Ravens",
+   "slug": "nfl-cle-bal-2025-09-14",
+   "volumeNum_mo_ta": 623847.021009
+  },
+  {
+   "conditionId": "0x6041cb78d3398ec805169b3ff7ba94b9c2e5ad1b31097989ae05d366ba7955de",
+   "id": "589790",
+   "question": "Jaguars vs. Bengals",
+   "slug": "nfl-jax-cin-2025-09-14",
+   "volumeNum_mo_ta": 1171955.443688
+  },
+  {
+   "conditionId": "0xf3ded5c94e43f3b2ed2b00880fb4dd571124e839b31c7499f567d29e2e978aec",
+   "id": "589791",
+   "question": "Giants vs. Cowboys",
+   "slug": "nfl-nyg-dal-2025-09-14",
+   "volumeNum_mo_ta": 1122564.265161
+  },
+  {
+   "conditionId": "0x0eb549ada746e7e1f32d33d3bcb7f4c38130fae33a27fd01d39d5d88fa155524",
+   "id": "589792",
+   "question": "Bears vs. Lions",
+   "slug": "nfl-chi-det-2025-09-14",
+   "volumeNum_mo_ta": 558697.354017
+  },
+  {
+   "conditionId": "0xd41dee54378dbc6371cd731879e20dab13f48ce686fef20a14e2010004c69bde",
+   "id": "589793",
+   "question": "Patriots vs. Dolphins",
+   "slug": "nfl-ne-mia-2025-09-14",
+   "volumeNum_mo_ta": 558403.498936
+  },
+  {
+   "conditionId": "0x2209d272f45481a4815f9311d94067c2cb2b932546298368f2a3322275169fc6",
+   "id": "589794",
+   "question": "49ers vs. Saints",
+   "slug": "nfl-sf-no-2025-09-14",
+   "volumeNum_mo_ta": 1708560.646847
+  },
+  {
+   "conditionId": "0x1444251b3dafb9a59d8d2cea3c6455850c1d36003f03dfbc2e094da2ab2dd161",
+   "id": "589795",
+   "question": "Bills vs. Jets",
+   "slug": "nfl-buf-nyj-2025-09-14",
+   "volumeNum_mo_ta": 2291423.80807
+  },
+  {
+   "conditionId": "0x3255139811b2eed367c3329581059bd34a37047fd414308c75d7100e7101283b",
+   "id": "589796",
+   "question": "Seahawks vs. Steelers",
+   "slug": "nfl-sea-pit-2025-09-14",
+   "volumeNum_mo_ta": 1311717.780102
+  },
+  {
+   "conditionId": "0x9e7c130fb42833e3a72b4fbb013a5119ed7d6fc06c986a19cb3f016e276ae622",
+   "id": "589797",
+   "question": "Rams vs. Titans",
+   "slug": "nfl-la-ten-2025-09-14",
+   "volumeNum_mo_ta": 890905.044976
+  },
+  {
+   "conditionId": "0x573aba90ae041b95e9b835f073bfe7eaaa04511d73ed7dc2e5cddce06ff77ba5",
+   "id": "589798",
+   "question": "Panthers vs. Cardinals",
+   "slug": "nfl-car-ari-2025-09-14",
+   "volumeNum_mo_ta": 1155396.800395
+  },
+  {
+   "conditionId": "0xddf98fc07d7824086f2bb238ff0a7c86268f9bd1e9c23c3f92470fe2a658c7d3",
+   "id": "589799",
+   "question": "Broncos vs. Colts",
+   "slug": "nfl-den-ind-2025-09-14",
+   "volumeNum_mo_ta": 2444427.393175
+  },
+  {
+   "conditionId": "0xbaeed5f2c31695be7bfbed65abe9b1e1abd30090b0837fc4dc1f238c41c99c23",
+   "id": "589800",
+   "question": "Eagles vs. Chiefs",
+   "slug": "nfl-phi-kc-2025-09-14",
+   "volumeNum_mo_ta": 1635710.24704
+  },
+  {
+   "conditionId": "0xe2f107836a6236398720178a48a51f0745260d5bf508d2422104c00eca2d6890",
+   "id": "589801",
+   "question": "Falcons vs. Vikings",
+   "slug": "nfl-atl-min-2025-09-14",
+   "volumeNum_mo_ta": 1601225.044626
+  },
+  {
+   "conditionId": "0xef962d69bb9b48628ed81f0c41e401fa6f99e8a16e05e20651586d009fdc17bf",
+   "id": "590279",
+   "question": "New Mexico vs. UCLA",
+   "slug": "cfb-unm-ucla-2025-09-12",
+   "volumeNum_mo_ta": 212945.751559
+  },
+  {
+   "conditionId": "0x9a2c2ffe8b7d60010b225f98377754d863fff5a2ea830f8b8558177fac2f0af1",
+   "id": "590280",
+   "question": "Kansas State vs. Arizona",
+   "slug": "cfb-ksu-ariz-2025-09-12",
+   "volumeNum_mo_ta": 394539.591176
+  },
+  {
+   "conditionId": "0xc355b3042288584c781d6a888107cd014422aae9ebf2534029168c8b5e3e6dd4",
+   "id": "590285",
+   "question": "Arkansas vs. Ole Miss",
+   "slug": "cfb-ark-miss-2025-09-13",
+   "volumeNum_mo_ta": 104297.636484
+  },
+  {
+   "conditionId": "0x37a1e6c1123e23cc6693c6ad647e3a15d5032b0a82a8117492886590cf45c211",
+   "id": "590291",
+   "question": "South Florida vs. Miami",
+   "slug": "cfb-usf-miami-2025-09-13",
+   "volumeNum_mo_ta": 100240.169537
+  },
+  {
+   "conditionId": "0xf24ec3bc26f79f51b6f29adc1c77a9e3baca8adcdc6c144662306201eb9a55e3",
+   "id": "590294",
+   "question": "Minnesota vs. California",
+   "slug": "cfb-minn-cal-2025-09-13",
+   "volumeNum_mo_ta": 286547.169991
+  },
+  {
+   "conditionId": "0xdfc6409d7a2ada81f66c4c0f5750acdc7b7fca8967cbf7c94291c0a9f4e4c259",
+   "id": "590300",
+   "question": "Georgia vs. Tennessee",
+   "slug": "cfb-uga-tenn-2025-09-13",
+   "volumeNum_mo_ta": 476874.521667
+  },
+  {
+   "conditionId": "0x15a6075c56250acec5ec5d610e721bbcfd9fffacec078a1297880e044b52b237",
+   "id": "590302",
+   "question": "Duke vs. Tulane",
+   "slug": "cfb-duke-tuln-2025-09-13",
+   "volumeNum_mo_ta": 107570.596162
+  },
+  {
+   "conditionId": "0x65f7bb9082a6c283ef8facf64a6befee0b033249cb3f1920724f41bf956b4b38",
+   "id": "590303",
+   "question": "Pittsburgh vs. West Virginia",
+   "slug": "cfb-pitt-wvu-2025-09-13",
+   "volumeNum_mo_ta": 101730.382511
+  },
+  {
+   "conditionId": "0x589a832eace43d246cdd4508088cc2807286e995e72437a17990e76b8c63c878",
+   "id": "590304",
+   "question": "Wisconsin vs. Alabama",
+   "slug": "cfb-wis-bama-2025-09-13",
+   "volumeNum_mo_ta": 163895.310451
+  },
+  {
+   "conditionId": "0x8cb9e4da52c62f1a8ab04ce8deecd98cfc1953ef1f669d5a4d63c7adced3eb02",
+   "id": "590307",
+   "question": "Clemson vs. Georgia Tech",
+   "slug": "cfb-clem-gt-2025-09-13",
+   "volumeNum_mo_ta": 458517.228673
+  },
+  {
+   "conditionId": "0xbc5606b54063444d85678e1cdb6840ad24ed7dd5bdaa4f70ad268fb244753194",
+   "id": "590309",
+   "question": "Texas A&M vs. Notre Dame",
+   "slug": "cfb-txam-nd-2025-09-13",
+   "volumeNum_mo_ta": 394361.326458
+  },
+  {
+   "conditionId": "0xadba1e2198bf38d497b94031b863f5fe6105c938b3916bb6bd91e673b28e3f69",
+   "id": "590311",
+   "question": "Florida vs. LSU",
+   "slug": "cfb-uf-lsu-2025-09-13",
+   "volumeNum_mo_ta": 278524.06303
+  },
+  {
+   "conditionId": "0x542f347e86af3c848754daee52f296a9f2244db0f62c1e713b9ace8e5dcd7677",
+   "id": "590333",
+   "question": "Buccaneers vs. Texans",
+   "slug": "nfl-tb-hou-2025-09-15",
+   "volumeNum_mo_ta": 1871934.099173
+  },
+  {
+   "conditionId": "0x269c676c69555c6f9609178c0c1b2c7469d413e7e22cd0f340c87390a4f6e766",
+   "id": "590334",
+   "question": "Chargers vs. Raiders",
+   "slug": "nfl-lac-lv-2025-09-15",
+   "volumeNum_mo_ta": 4286152.548024
+  },
+  {
+   "conditionId": "0x9c859f45f1dfc0840f8df1d3e4a98361901fbb2217c386ffdb3d71d6ae6f8312",
+   "id": "593570",
+   "question": "Cardinals vs. Brewers",
+   "slug": "mlb-stl-mil-2025-09-12",
+   "volumeNum_mo_ta": 107546.094775
+  },
+  {
+   "conditionId": "0x054011d13a781215aca4f45dd2e610bcf0046c54c38faab31305f28b1fb5046a",
+   "id": "593571",
+   "question": "Diamondbacks vs. Twins",
+   "slug": "mlb-ari-min-2025-09-12",
+   "volumeNum_mo_ta": 150257.390081
+  },
+  {
+   "conditionId": "0x6c3ff52c8e4c8b57143772433ee48e9b4e05ee11cb265f2d492080f03fe19c09",
+   "id": "593572",
+   "question": "Rockies vs. Padres",
+   "slug": "mlb-col-sd-2025-09-12",
+   "volumeNum_mo_ta": 151493.128022
+  },
+  {
+   "conditionId": "0xa2801d72912a298533fbd25058e0c85aa8923add1143c5a1ffbad6d64ef41a1e",
+   "id": "593573",
+   "question": "Reds vs. Athletics",
+   "slug": "mlb-cin-oak-2025-09-12",
+   "volumeNum_mo_ta": 388632.241616
+  },
+  {
+   "conditionId": "0x2d274ae7e47f66df760b86c19f306def8e1a8571251466a527834ff8fad016d4",
+   "id": "593574",
+   "question": "Angels vs. Mariners",
+   "slug": "mlb-laa-sea-2025-09-12",
+   "volumeNum_mo_ta": 2370407.611762
+  },
+  {
+   "conditionId": "0xf6fdacaf31427be227307d681d028c2602cbacade25e181e1ad86ad5fa0a29f9",
+   "id": "593575",
+   "question": "Dodgers vs. Giants",
+   "slug": "mlb-lad-sf-2025-09-12",
+   "volumeNum_mo_ta": 406326.500296
+  },
+  {
+   "conditionId": "0xba753ac6829278d810ad1235f2eff6a774ab16547f0314b85e368b6be7ece441",
+   "id": "594161",
+   "question": "Spread: Chargers (-3.5)",
+   "slug": "nfl-lac-lv-2025-09-15-spread-away-3pt5",
+   "volumeNum_mo_ta": 288660.55824
+  },
+  {
+   "conditionId": "0x58a1f50de387d70c72cc3f4fd9d41446470cf5961a2928dc08496dad2af57ba9",
+   "id": "594170",
+   "question": "Spread: Texans (-2.5)",
+   "slug": "nfl-tb-hou-2025-09-15-spread-home-2pt5",
+   "volumeNum_mo_ta": 118086.508885
+  },
+  {
+   "conditionId": "0xba9449525331c726bc7dec0dc6210638e55c88b51bc3ecf7b5c5f038075ab271",
+   "id": "594819",
+   "question": "Rays vs. Cubs",
+   "slug": "mlb-tb-chc-2025-09-13",
+   "volumeNum_mo_ta": 302364.010814
+  },
+  {
+   "conditionId": "0xb1416ca529edfc4be1d7bfa9b6953c724476895cccd74a9b471b3463f750cacc",
+   "id": "594820",
+   "question": "Orioles vs. Blue Jays",
+   "slug": "mlb-bal-tor-2025-09-13",
+   "volumeNum_mo_ta": 461520.065531
+  },
+  {
+   "conditionId": "0xc19efbd69a43a68a28609c4eb9b056a34eba3053847d28146df65eb2c604d2a5",
+   "id": "594822",
+   "question": "Yankees vs. Red Sox",
+   "slug": "mlb-nyy-bos-2025-09-13",
+   "volumeNum_mo_ta": 191868.981876
+  },
+  {
+   "conditionId": "0xce6465456427651f81f8aebad1a2e621b77bf307fe1e0869f177c0d68c50d818",
+   "id": "594823",
+   "question": "Tigers vs. Marlins",
+   "slug": "mlb-det-mia-2025-09-13",
+   "volumeNum_mo_ta": 119953.824831
+  },
+  {
+   "conditionId": "0x540a55b864fb0379ac0ec39804b33eae0bab61c24f3af7002b958f14db7f3940",
+   "id": "594824",
+   "question": "Rangers vs. Mets",
+   "slug": "mlb-tex-nym-2025-09-13",
+   "volumeNum_mo_ta": 614348.283001
+  },
+  {
+   "conditionId": "0x6d739b12d822fbec532c7fc0e90ff38aa88d0567aab6b34e98ba0700ce4accd9",
+   "id": "594825",
+   "question": "Royals vs. Phillies",
+   "slug": "mlb-kc-phi-2025-09-13",
+   "volumeNum_mo_ta": 151897.978122
+  },
+  {
+   "conditionId": "0x311d621f12df91e5518a700dc752a2c55aa086ea60816cfd8819e5e4a28896d6",
+   "id": "594826",
+   "question": "White Sox vs. Guardians",
+   "slug": "mlb-cws-cle-2025-09-13",
+   "volumeNum_mo_ta": 157820.046228
+  },
+  {
+   "conditionId": "0x013441f1ed2aedbc34b5d609a2b2b173e02a1b074e0fc1eccf501dd3d58915b1",
+   "id": "594827",
+   "question": "Diamondbacks vs. Twins",
+   "slug": "mlb-ari-min-2025-09-13",
+   "volumeNum_mo_ta": 198992.186944
+  },
+  {
+   "conditionId": "0x716e7fbb2a6a08f70dbb4e57e5db707487b28bece74625aaef483d92c64f764b",
+   "id": "594828",
+   "question": "Astros vs. Braves",
+   "slug": "mlb-hou-atl-2025-09-13",
+   "volumeNum_mo_ta": 321386.977991
+  },
+  {
+   "conditionId": "0x98dde15f19b750936526d438b9920e325aece9d3e4144b71e276e96f557c1c49",
+   "id": "597261",
+   "question": "Falcons vs. Panthers",
+   "slug": "nfl-atl-car-2025-09-21",
+   "volumeNum_mo_ta": 518801.480983
+  },
+  {
+   "conditionId": "0xfeb438246bc849b858cb0136ec42903babf3921f634cf1733ab833349b65e6dd",
+   "id": "597262",
+   "question": "Packers vs. Browns",
+   "slug": "nfl-gb-cle-2025-09-21",
+   "volumeNum_mo_ta": 1215658.401133
+  },
+  {
+   "conditionId": "0xcab669c074f8f790546d99e92a5864b14f46d98de451f35e26ea63c0089a7173",
+   "id": "597263",
+   "question": "Texans vs. Jaguars",
+   "slug": "nfl-hou-jax-2025-09-21",
+   "volumeNum_mo_ta": 1698882.827991
+  },
+  {
+   "conditionId": "0x00cfb1fe371a24b3a9d81f1bb9ba5a037a53f70cf5f2741f3e8d24ca0eb46591",
+   "id": "597264",
+   "question": "Bengals vs. Vikings",
+   "slug": "nfl-cin-min-2025-09-21",
+   "volumeNum_mo_ta": 2063396.513701
+  },
+  {
+   "conditionId": "0x8610f5115132a1dbb5d9db6d2514880bffd355a08d4e7e7c4a4b8a176ed9baa7",
+   "id": "597265",
+   "question": "Steelers vs. Patriots",
+   "slug": "nfl-pit-ne-2025-09-21",
+   "volumeNum_mo_ta": 1003692.441236
+  },
+  {
+   "conditionId": "0xbaef857e53f69249525c725e35c4dafb4c9df13c915738351bf2d5ab9fef01b9",
+   "id": "597266",
+   "question": "Rams vs. Eagles",
+   "slug": "nfl-la-phi-2025-09-21",
+   "volumeNum_mo_ta": 1024432.319328
+  },
+  {
+   "conditionId": "0x44d172447f68fcc304a574af3439776f798155fee1ea6ade6861ea62d269a856",
+   "id": "597267",
+   "question": "Jets vs. Buccaneers",
+   "slug": "nfl-nyj-tb-2025-09-21",
+   "volumeNum_mo_ta": 1145475.689705
+  },
+  {
+   "conditionId": "0x0a72c4de1ae9224eaf23d19ed8710a9b569bcc18b872e5b0812d4e931e36b837",
+   "id": "597268",
+   "question": "Colts vs. Titans",
+   "slug": "nfl-ind-ten-2025-09-21",
+   "volumeNum_mo_ta": 1610982.393328
+  },
+  {
+   "conditionId": "0xb68114f91bebbdf4db3b833187ffa59aa3b9a727cbc3070f232e2fbc8efa530d",
+   "id": "597269",
+   "question": "Raiders vs. Commanders",
+   "slug": "nfl-lv-was-2025-09-21",
+   "volumeNum_mo_ta": 1534442.333581
+  },
+  {
+   "conditionId": "0x63c2b29f776882f6a873ab08f9233b5ce81878f08901b356cefbfeefed9a7256",
+   "id": "597270",
+   "question": "Broncos vs. Chargers",
+   "slug": "nfl-den-lac-2025-09-21",
+   "volumeNum_mo_ta": 1993928.145529
+  },
+  {
+   "conditionId": "0x027debee6533019ad89f0c725cd371e7743741993ba7299ffb6fd00fa2113bfa",
+   "id": "597271",
+   "question": "Saints vs. Seahawks",
+   "slug": "nfl-no-sea-2025-09-21",
+   "volumeNum_mo_ta": 347823.17428
+  },
+  {
+   "conditionId": "0xfa1e8f3b1d376187570365ccc2b0a75b75c6bac5e09af54cbb2f136dcfc15312",
+   "id": "597272",
+   "question": "Cowboys vs. Bears",
+   "slug": "nfl-dal-chi-2025-09-21",
+   "volumeNum_mo_ta": 1808242.745681
+  },
+  {
+   "conditionId": "0x86114dd0c8cb0620543ac867b2c1c38715f6c71e62d2f6580c51c5223e6f3c3e",
+   "id": "597273",
+   "question": "Cardinals vs. 49ers",
+   "slug": "nfl-ari-sf-2025-09-21",
+   "volumeNum_mo_ta": 2381552.514667
+  },
+  {
+   "conditionId": "0x86f7bdfbb5d28ce8a9c455600e0252b016becf26a3868ac5ca6b85a65ac5b785",
+   "id": "597274",
+   "question": "Chiefs vs. Giants",
+   "slug": "nfl-kc-nyg-2025-09-21",
+   "volumeNum_mo_ta": 3267790.952649
+  },
+  {
+   "conditionId": "0x8b028a53b73e378036269a45ef78db7da4c0c0555ad18e3c88bcd6dc5c43851a",
+   "id": "597387",
+   "question": "Cubs vs. Pirates",
+   "slug": "mlb-chc-pit-2025-09-15",
+   "volumeNum_mo_ta": 147397.610842
+  },
+  {
+   "conditionId": "0x5442929071a53ca5f48e679912e7f1238cbc071568fdc9eccd9e69e78d43e305",
+   "id": "597388",
+   "question": "Braves vs. Nationals",
+   "slug": "mlb-atl-wsh-2025-09-15",
+   "volumeNum_mo_ta": 305170.972128
+  },
+  {
+   "conditionId": "0xb444cc5294186a3aeb45b103547c53819d7594e99cdb4af28fb61e8033240c3d",
+   "id": "597389",
+   "question": "Blue Jays vs. Rays",
+   "slug": "mlb-tor-tb-2025-09-15",
+   "volumeNum_mo_ta": 955359.485706
+  },
+  {
+   "conditionId": "0xc07566e39a0ec006ded644acfc3c1bb5c3e7ef41d0c314dd5b2602b54488e260",
+   "id": "597391",
+   "question": "Yankees vs. Twins",
+   "slug": "mlb-nyy-min-2025-09-15",
+   "volumeNum_mo_ta": 1037999.767229
+  },
+  {
+   "conditionId": "0x381c1f67fe92b73e72b4edd00b1b08422ef1f384978be48a0a0ba951f63a5a80",
+   "id": "597392",
+   "question": "Reds vs. Cardinals",
+   "slug": "mlb-cin-stl-2025-09-15",
+   "volumeNum_mo_ta": 145911.286098
+  },
+  {
+   "conditionId": "0xcb48a4793e9c7b9a638447ecdbbeaa39584ccb8cff323847a3d25c61fd7fdfdb",
+   "id": "598299",
+   "question": "Iowa vs. Rutgers",
+   "slug": "cfb-iowa-rutg-2025-09-19",
+   "volumeNum_mo_ta": 1574042.030995
+  },
+  {
+   "conditionId": "0x086988fc4429f0d166bb42192f2fc11eef2b2440936a15d07d31d97e90312cfb",
+   "id": "598315",
+   "question": "South Carolina vs. Missouri",
+   "slug": "cfb-scar-mizz-2025-09-20",
+   "volumeNum_mo_ta": 291434.836585
+  },
+  {
+   "conditionId": "0x8ee322293f4ed5459114fc50ea6a918b128e82e43c57fce563e12c802ef44a93",
+   "id": "598319",
+   "question": "Michigan vs. Nebraska",
+   "slug": "cfb-mich-neb-2025-09-20",
+   "volumeNum_mo_ta": 1037831.70495
+  },
+  {
+   "conditionId": "0xc5dbdb24fa06832401d5ab845fb55a1e8f885fdcf4b24537c91b9c0ff20058f5",
+   "id": "598320",
+   "question": "Auburn vs. Oklahoma",
+   "slug": "cfb-aub-okla-2025-09-20",
+   "volumeNum_mo_ta": 195076.991452
+  },
+  {
+   "conditionId": "0xfe2b39eaf8209a7d0ce6c35ddc78e39069f70f9eb68270b1b9ef2c8de1ba2be4",
+   "id": "598322",
+   "question": "California vs. San Diego State",
+   "slug": "cfb-cal-sdsu-2025-09-20",
+   "volumeNum_mo_ta": 118075.365561
+  },
+  {
+   "conditionId": "0xbe48dca9ed91dcf5d2e176821388fae58b40c15d34714ab477e1fdc9683ae242",
+   "id": "598325",
+   "question": "Syracuse vs. Clemson",
+   "slug": "cfb-syr-clem-2025-09-20",
+   "volumeNum_mo_ta": 485633.670407
+  },
+  {
+   "conditionId": "0xe671e803cfb5f3febf9e37f91c9b186dbe22fca81952636ddfd17f892bc6177a",
+   "id": "598326",
+   "question": "Arkansas vs. Memphis",
+   "slug": "cfb-ark-mem-2025-09-20",
+   "volumeNum_mo_ta": 254991.073004
+  },
+  {
+   "conditionId": "0xa3a94e179dba0c4bd35b95dc4f968a120150a8ea0d35946ca35dad0b5c228448",
+   "id": "598328",
+   "question": "Florida vs. Miami",
+   "slug": "cfb-uf-miami-2025-09-20",
+   "volumeNum_mo_ta": 381755.010047
+  },
+  {
+   "conditionId": "0x0bb8cc3e94a64e15402deecc9efacda23e63325f657ee1d630ccfcdc50683df9",
+   "id": "598332",
+   "question": "SMU vs. TCU",
+   "slug": "cfb-smu-tcu-2025-09-20",
+   "volumeNum_mo_ta": 156318.818773
+  },
+  {
+   "conditionId": "0xc2e7cab4e3111d25914456053a685fa3ad942f0a23de3c2cf5ea90f4ca48e896",
+   "id": "598337",
+   "question": "Michigan State vs. USC",
+   "slug": "cfb-msu-usc-2025-09-20",
+   "volumeNum_mo_ta": 235490.986284
+  },
+  {
+   "conditionId": "0x166dc50db4bd8ff277a1873b179e5ab33a2f1b0b150530fc2288de32bf604c96",
+   "id": "598341",
+   "question": "Illinois vs. Indiana",
+   "slug": "cfb-ill-ind-2025-09-20",
+   "volumeNum_mo_ta": 519716.502826
+  },
+  {
+   "conditionId": "0xd127eb7c290289506f73892c93f4a0fd75fa3f6e7ff82603eddbbdaa687c5681",
+   "id": "598342",
+   "question": "Purdue vs. Notre Dame",
+   "slug": "cfb-purd-nd-2025-09-20",
+   "volumeNum_mo_ta": 128220.453141
+  },
+  {
+   "conditionId": "0x5330e997dd88a34e1ea810eb44174d7680c630b941e1e80fefd36613dca8e9c5",
+   "id": "598347",
+   "question": "Arizona State vs. Baylor",
+   "slug": "cfb-azst-bay-2025-09-20",
+   "volumeNum_mo_ta": 335435.64056
+  },
+  {
+   "conditionId": "0xee4bfb0db500e2d4ce48311f4a67721f8986ba1a79f40cb5f8226f924b1b65fc",
+   "id": "598348",
+   "question": "Texas Tech vs. Utah",
+   "slug": "cfb-ttu-utah-2025-09-20",
+   "volumeNum_mo_ta": 286362.764633
+  },
+  {
+   "conditionId": "0x312b9c5c1e712fb150a557fbad12fbb69e84f5e036572aff3bdfbc2be245d98d",
+   "id": "598349",
+   "question": "Wyoming vs. Colorado",
+   "slug": "cfb-wyo-col-2025-09-20",
+   "volumeNum_mo_ta": 114733.683462
+  },
+  {
+   "conditionId": "0x74526b967dffc08c39297cd6d383633887757192c6fc85fac7bef3b2fd075157",
+   "id": "598361",
+   "question": "Fresno State vs. Hawai'i",
+   "slug": "cfb-frsno-haw-2025-09-20",
+   "volumeNum_mo_ta": 184084.46199
+  },
+  {
+   "conditionId": "0x9bb75ad1d36ca556770aa2e1e12d1a6cc4a96039664434a33d4d7221504fa28c",
+   "id": "598426",
+   "question": "Lions vs. Ravens",
+   "slug": "nfl-det-bal-2025-09-22",
+   "volumeNum_mo_ta": 4037204.542729
+  },
+  {
+   "conditionId": "0x78689d6111a1d2e9f02f9f618e2773056a7d57c317c621480ceb141aefd67dbf",
+   "id": "598643",
+   "question": "Marlins vs. Rockies",
+   "slug": "mlb-mia-col-2025-09-16",
+   "volumeNum_mo_ta": 113209.605414
+  },
+  {
+   "conditionId": "0x57ec409ee89c4bfa631faf3fae4d326d9ac3a6b9319089387dac5eb2057cb6cf",
+   "id": "598644",
+   "question": "Giants vs. Diamondbacks",
+   "slug": "mlb-sf-ari-2025-09-16",
+   "volumeNum_mo_ta": 909116.802449
+  },
+  {
+   "conditionId": "0x018cf5211fe13d579c4f08b53c28d461882740b17c895c7276abf9cf1fd46b3e",
+   "id": "598645",
+   "question": "Phillies vs. Dodgers",
+   "slug": "mlb-phi-lad-2025-09-16",
+   "volumeNum_mo_ta": 647000.012429
+  },
+  {
+   "conditionId": "0xa11a401b3ead5604663225148a63a0d7778d451f1d1b44b494ac1c2d9103d75c",
+   "id": "598655",
+   "question": "Aces vs. Storm",
+   "slug": "wnba-las-sea-2025-09-16",
+   "volumeNum_mo_ta": 113935.316706
+  },
+  {
+   "conditionId": "0x7989563c76e4dc4a2e4422757fd92138b64386e4a65401e3db1f7230025f77a9",
+   "id": "600115",
+   "question": "Cubs vs. Pirates",
+   "slug": "mlb-chc-pit-2025-09-17",
+   "volumeNum_mo_ta": 477643.4497
+  },
+  {
+   "conditionId": "0x6da2c687bca4486a0c52249ae35ccb1944654dd9baad0c3e7ccb712f292cb054",
+   "id": "600116",
+   "question": "Reds vs. Cardinals",
+   "slug": "mlb-cin-stl-2025-09-17",
+   "volumeNum_mo_ta": 550193.755562
+  },
+  {
+   "conditionId": "0x538c228821b61259e14c282bf86a159364010a23aab372b17bd2afb9ca051818",
+   "id": "600117",
+   "question": "Orioles vs. White Sox",
+   "slug": "mlb-bal-cws-2025-09-17",
+   "volumeNum_mo_ta": 476831.857654
+  },
+  {
+   "conditionId": "0x9a5506829b8dd6ccf444445ebe6263dc24757526721f14a42ea6a2808da185ef",
+   "id": "600118",
+   "question": "Giants vs. Diamondbacks",
+   "slug": "mlb-sf-ari-2025-09-17",
+   "volumeNum_mo_ta": 303640.817495
+  },
+  {
+   "conditionId": "0x2b9397abf2e8eafdac7408cbeb33ee2fba5180fdc01cd6ab03cca9f074f088e3",
+   "id": "600119",
+   "question": "Braves vs. Nationals",
+   "slug": "mlb-atl-wsh-2025-09-17",
+   "volumeNum_mo_ta": 705416.452303
+  },
+  {
+   "conditionId": "0x6edc48fbfddf061dea8a7fead0b2986d5f08996ca254828b72b16c4364236c8d",
+   "id": "600120",
+   "question": "Guardians vs. Tigers",
+   "slug": "mlb-cle-det-2025-09-17",
+   "volumeNum_mo_ta": 127201.192126
+  },
+  {
+   "conditionId": "0x536e13fc85ca1694c95f13fa4685e05492fc3b1f694d2c4064cdcc5ca20cd413",
+   "id": "600121",
+   "question": "Athletics vs. Red Sox",
+   "slug": "mlb-oak-bos-2025-09-17",
+   "volumeNum_mo_ta": 199446.500837
+  },
+  {
+   "conditionId": "0xb9071a1a676868e71083aae58cb9a89a2f3435ed07a266874d7235499b66cb62",
+   "id": "600122",
+   "question": "Blue Jays vs. Rays",
+   "slug": "mlb-tor-tb-2025-09-17",
+   "volumeNum_mo_ta": 120948.319683
+  },
+  {
+   "conditionId": "0x54939dc3121ddf454e7201efb8f101c99007522799e6418f91d9fc371c27fc39",
+   "id": "600123",
+   "question": "Padres vs. Mets",
+   "slug": "mlb-sd-nym-2025-09-17",
+   "volumeNum_mo_ta": 906734.764395
+  },
+  {
+   "conditionId": "0xe776e1fab5cea2abf3f7bb536957ab058ab39e847a3c95543c8601094bbcf7cb",
+   "id": "600124",
+   "question": "Mariners vs. Royals",
+   "slug": "mlb-sea-kc-2025-09-17",
+   "volumeNum_mo_ta": 144321.955354
+  },
+  {
+   "conditionId": "0x5fa752d846f79a3e6ef4353e576696cf6a9de510abe8fe5238d268385475c664",
+   "id": "600125",
+   "question": "Angels vs. Brewers",
+   "slug": "mlb-laa-mil-2025-09-17",
+   "volumeNum_mo_ta": 3065710.06966
+  },
+  {
+   "conditionId": "0xc3964789cb0f44950685f589ae22d11f9bc95ac602d7ff2092cf2d400b419c6e",
+   "id": "600126",
+   "question": "Yankees vs. Twins",
+   "slug": "mlb-nyy-min-2025-09-17",
+   "volumeNum_mo_ta": 145013.753681
+  },
+  {
+   "conditionId": "0x22a1111bc8b56a6b86c730f9f3fb73fe0745d7eb33203096570b9802745bac11",
+   "id": "602305",
+   "question": "Spread: KC (-6.5)",
+   "slug": "nfl-kc-nyg-2025-09-21-spread-away-6pt5",
+   "volumeNum_mo_ta": 682452.43461
+  },
+  {
+   "conditionId": "0xe1fad2d8c73269495aa9bb4f8b4090299b7a8ae8d72365e7d52f6569f4a78233",
+   "id": "602620",
+   "question": "Marlins vs. Rangers",
+   "slug": "mlb-mia-tex-2025-09-19",
+   "volumeNum_mo_ta": 1770279.033713
+  },
+  {
+   "conditionId": "0x676b185a70bed1446bae8e9106166f4b36fadd0ae601816b94bd36ea883dd48d",
+   "id": "602621",
+   "question": "Angels vs. Rockies",
+   "slug": "mlb-laa-col-2025-09-19",
+   "volumeNum_mo_ta": 182496.151373
+  },
+  {
+   "conditionId": "0xdf8a262506cc268c1d8cf275d16e5357afdff7b30b854af560cc0183284fb465",
+   "id": "602622",
+   "question": "Mariners vs. Astros",
+   "slug": "mlb-sea-hou-2025-09-19",
+   "volumeNum_mo_ta": 846058.797577
+  }
+ ]
+}
