@@ -1,0 +1,58 @@
+{
+ "distinct_wallets": 3290,
+ "fills_seen": 20000,
+ "markets_sampled": 20,
+ "requests_used": 40,
+ "top10": [
+  {
+   "n_fills_mau": 42,
+   "n_markets": 14,
+   "wallet": "0x6b7c75862e64d6e976d2c08ad9f9b54add6c5f83"
+  },
+  {
+   "n_fills_mau": 158,
+   "n_markets": 13,
+   "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2"
+  },
+  {
+   "n_fills_mau": 336,
+   "n_markets": 11,
+   "wallet": "0x53757615de1c42b83f893b79d4241a009dc2aeea"
+  },
+  {
+   "n_fills_mau": 170,
+   "n_markets": 10,
+   "wallet": "0xcacf2bf1906bb3c74a0e0453bfb91f1374e335ff"
+  },
+  {
+   "n_fills_mau": 78,
+   "n_markets": 10,
+   "wallet": "0x371a0d623144ad877c81614afe52c356619c34b0"
+  },
+  {
+   "n_fills_mau": 40,
+   "n_markets": 10,
+   "wallet": "0x519d98cfe6eb112fdc8d5f8e5e2c900036c937a1"
+  },
+  {
+   "n_fills_mau": 28,
+   "n_markets": 10,
+   "wallet": "0x7846e489e11c7d2b9d6c15a955c1df93d041c08d"
+  },
+  {
+   "n_fills_mau": 1144,
+   "n_markets": 9,
+   "wallet": "0x9b979a065641e8cfde3022a30ed2d9415cf55e12"
+  },
+  {
+   "n_fills_mau": 310,
+   "n_markets": 9,
+   "wallet": "0x79cbe531cca9eb9320b6ce22b6e471a7bb5d331e"
+  },
+  {
+   "n_fills_mau": 26,
+   "n_markets": 9,
+   "wallet": "0x212af34bef48df3922c77ae109f67b690ede83cf"
+  }
+ ]
+}

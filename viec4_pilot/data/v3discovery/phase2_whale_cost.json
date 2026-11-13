@@ -1,0 +1,32 @@
+{
+ "note": "chi phí/ví đo thật; chạm trần 40 trang = cận dưới",
+ "results": [
+  {
+   "fills": 500,
+   "markets": 100,
+   "pages": 1,
+   "pages_capped_40": false,
+   "requests": 1,
+   "usd": 73958.71,
+   "wallet": "0x6b7c75862e64d6e976d2c08ad9f9b54add6c5f83"
+  },
+  {
+   "fills": 500,
+   "markets": 6,
+   "pages": 1,
+   "pages_capped_40": false,
+   "requests": 1,
+   "usd": 23112.89,
+   "wallet": "0xd9e0aaca471f489be338fd0f91a26e8669a805f2"
+  },
+  {
+   "fills": 500,
+   "markets": 64,
+   "pages": 1,
+   "pages_capped_40": false,
+   "requests": 1,
+   "usd": 179551.12,
+   "wallet": "0x53757615de1c42b83f893b79d4241a009dc2aeea"
+  }
+ ]
+}

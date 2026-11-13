@@ -1,10 +1,10 @@
 {
- "ts": "2026-11-12T05:40:45Z",
- "phase": "pilot4",
- "phase_requests": 189,
- "today_requests": 200,
- "today_remaining": 0,
- "step": "pilot4_DONE_or_PAUSED",
- "measured": 0,
- "wallets": 0
+ "ts": "2026-11-13T04:15:47Z",
+ "phase": "v3disc",
+ "phase_requests": 43,
+ "today_requests": 43,
+ "today_remaining": 157,
+ "step": "v3disc_DONE",
+ "phase1_wallets": 3290,
+ "whales_measured": 3
 }
